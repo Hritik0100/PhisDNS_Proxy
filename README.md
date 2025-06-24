@@ -1,10 +1,22 @@
-[![GitHub Stars](https://img.shields.io/github/stars/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/issues)
-[![GitHub License](https://img.shields.io/github/license/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/blob/master/LICENSE)
-# 🛡️ PhishBlock-DNS
+# 🛡️ PhishingBlocker_proxy
+
+<div align="center">
+
+![Phishing Detector](https://img.shields.io/badge/Phishing-Detector-red?style=for-the-badge&logo=shield-check)
+![Security](https://img.shields.io/badge/Security-Advanced-green?style=for-the-badge&logo=security)
+![Browser Extension](https://img.shields.io/badge/Browser-Extension-blue?style=for-the-badge&logo=chrome)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-API-orange?style=for-the-badge&logo=virustotal)
 
 **Private DNS with Real-time Phishing Detection and Visual Warning System**
+
+[![GitHub stars](https://img.shields.io/github/stars/Hritik0100/Phishing-link-detection-Extention?style=social)](https://github.com/Hritik0100/Phishing-link-detection-Extention/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Hritik0100/Phishing-link-detection-Extention?style=social)](https://github.com/Hritik0100/Phishing-link-detection-Extention/network)
+[![GitHub issues](https://img.shields.io/github/issues/Hritik0100/Phishing-link-detection-Extention)](https://github.com/Hritik0100/Phishing-link-detection-Extention/issues)
+[![GitHub license](https://img.shields.io/github/license/Hritik0100/Phishing-link-detection-Extention)](https://github.com/Hritik0100/Phishing-link-detection-Extention/blob/main/LICENSE)
+
+</div>
+
+---
 
 PhishBlock-DNS is a powerful DNS server that protects you from phishing and malicious websites by:
 - ✅ Real-time domain reputation checking using VirusTotal API
