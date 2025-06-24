@@ -1,0 +1,1304 @@
+2025-06-23 06:59:25,012 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 06:59:25,013 - INFO - Cache cleanup thread started
+2025-06-23 06:59:25,013 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 06:59:25,013 - INFO - 📡 Listening on port 53
+2025-06-23 06:59:25,013 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 06:59:25,013 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 06:59:25,013 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 06:59:25,013 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 07:04:25,019 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 07:09:25,027 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 07:14:25,028 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 07:19:25,029 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 07:24:25,030 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 07:26:32,766 - INFO - VirusTotal check for google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-23 07:26:32,778 - INFO - Cached result for google.com: malicious=False (0/94)
+2025-06-23 07:26:32,778 - INFO - ALLOWED: google.com (clean: 0/94 engines)
+2025-06-23 07:29:25,033 - INFO - 📊 Stats: 1 queries, 0 blocked, 0 cache hits, 1 API calls
+2025-06-23 07:34:25,034 - INFO - 📊 Stats: 1 queries, 0 blocked, 0 cache hits, 1 API calls
+2025-06-23 07:39:25,034 - INFO - 📊 Stats: 1 queries, 0 blocked, 0 cache hits, 1 API calls
+2025-06-23 07:49:33,221 - INFO - 📊 Stats: 1 queries, 0 blocked, 0 cache hits, 1 API calls
+2025-06-23 07:51:49,909 - INFO - 🛑 Shutting down PhishBlock-DNS...
+2025-06-23 07:52:23,207 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 07:52:23,208 - INFO - Cache cleanup thread started
+2025-06-23 07:52:23,209 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 07:52:23,209 - INFO - 📡 Listening on port 53
+2025-06-23 07:52:23,210 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 07:52:23,210 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 07:52:23,210 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 07:52:23,210 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 07:57:23,212 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:02:23,213 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:07:23,215 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:12:23,216 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:17:23,217 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:22:23,219 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:27:23,221 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:32:23,221 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:37:40,786 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:50:44,449 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 08:55:44,464 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:00:44,469 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:05:44,503 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:10:44,504 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:15:44,515 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:20:44,518 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:25:44,519 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:30:44,520 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:35:44,521 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:40:44,521 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 09:40:48,672 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 09:40:48,672 - INFO - Cache cleanup thread started
+2025-06-23 09:40:48,672 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 09:40:48,672 - INFO - 📡 Listening on port 53
+2025-06-23 09:40:48,673 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 09:40:48,673 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 09:40:48,673 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 09:40:48,673 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 11:01:01,416 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 11:01:01,682 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 12:27:10,869 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 12:27:10,885 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 14:51:26,568 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 14:51:26,569 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 14:56:26,569 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 14:56:26,578 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:01:26,570 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:01:26,580 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:06:26,570 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:06:26,581 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:07:21,219 - INFO - 🛑 Shutting down PhishBlock-DNS...
+2025-06-23 15:07:33,878 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 15:07:33,879 - INFO - Cache cleanup thread started
+2025-06-23 15:07:33,879 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 15:07:33,879 - INFO - 📡 Listening on port 53
+2025-06-23 15:07:33,879 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 15:07:33,879 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 15:07:33,879 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 15:07:33,879 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 15:11:26,581 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:12:33,899 - INFO - 📊 Stats: 1 queries, 0 blocked, 1 cache hits, 0 API calls
+2025-06-23 15:16:26,616 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:17:33,913 - INFO - 📊 Stats: 1 queries, 0 blocked, 1 cache hits, 0 API calls
+2025-06-23 15:21:26,617 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:22:33,915 - INFO - 📊 Stats: 1 queries, 0 blocked, 1 cache hits, 0 API calls
+2025-06-23 15:26:26,618 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:31:26,620 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:36:26,627 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:41:26,628 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:46:26,630 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:51:26,730 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 15:56:26,731 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:01:26,733 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:06:26,734 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:11:26,738 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:16:26,754 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:17:55,867 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 16:17:55,868 - INFO - Cache cleanup thread started
+2025-06-23 16:17:55,868 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 16:17:55,868 - INFO - 📡 Listening on port 53
+2025-06-23 16:17:55,868 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 16:17:55,868 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 16:17:55,868 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 16:17:55,868 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 16:21:26,762 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:22:55,921 - INFO - 📊 Stats: 1 queries, 0 blocked, 1 cache hits, 0 API calls
+2025-06-23 16:26:26,765 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:27:55,957 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:31:26,870 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:32:55,969 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:36:26,893 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:37:55,970 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:41:26,933 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:42:56,016 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:46:27,005 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:47:56,017 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:51:27,007 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:52:56,018 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 16:56:27,029 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 16:57:56,082 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 17:01:27,031 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:02:56,083 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 17:06:27,038 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:07:56,089 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 17:11:27,048 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:12:56,094 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 17:16:27,049 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:17:56,097 - INFO - 📊 Stats: 3 queries, 0 blocked, 3 cache hits, 0 API calls
+2025-06-23 17:20:49,667 - INFO - 🛑 Shutting down PhishBlock-DNS...
+2025-06-23 17:21:27,051 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:21:47,072 - INFO - Database initialized: phishblock_cache.db
+2025-06-23 17:21:47,074 - INFO - Cache cleanup thread started
+2025-06-23 17:21:47,074 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-23 17:21:47,075 - INFO - 📡 Listening on port 53
+2025-06-23 17:21:47,075 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-23 17:21:47,075 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-23 17:21:47,075 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-23 17:21:47,076 - INFO - 💾 Cache TTL: 24 hours
+2025-06-23 17:26:27,108 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:26:47,079 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:31:27,112 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:31:47,080 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:36:27,113 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:41:27,114 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-23 17:46:27,159 - INFO - 📊 Stats: 0 queries, 0 blocked, 0 cache hits, 0 API calls
+2025-06-24 03:22:22,831 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 03:22:22,834 - INFO - Cache cleanup thread started
+2025-06-24 03:22:42,085 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 03:22:42,088 - INFO - Cache cleanup thread started
+2025-06-24 03:24:06,399 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 03:24:06,401 - INFO - Cache cleanup thread started
+2025-06-24 03:26:50,617 - INFO - VirusTotal check for optimizationguide-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:26:50,619 - INFO - VirusTotal check for clients4.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:26:50,635 - INFO - Cached result for clients4.google.com: malicious=False (0/94)
+2025-06-24 03:26:50,637 - INFO - ALLOWED: clients4.google.com (clean: 0/94 engines)
+2025-06-24 03:26:50,639 - INFO - Cached result for optimizationguide-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 03:26:50,640 - INFO - ALLOWED: optimizationguide-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:26:50,773 - INFO - VirusTotal check for www.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:26:50,783 - INFO - Cached result for www.google.com: malicious=False (0/94)
+2025-06-24 03:26:50,784 - INFO - ALLOWED: www.google.com (clean: 0/94 engines)
+2025-06-24 03:27:06,212 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,221 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:06,222 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:06,226 - INFO - VirusTotal check for ogads-pa.clients6.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,237 - INFO - Cached result for ogads-pa.clients6.google.com: malicious=False (0/94)
+2025-06-24 03:27:06,237 - INFO - ALLOWED: ogads-pa.clients6.google.com (clean: 0/94 engines)
+2025-06-24 03:27:06,243 - INFO - VirusTotal check for ogads-pa.clients6.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,253 - INFO - Cached result for ogads-pa.clients6.google.com: malicious=False (0/94)
+2025-06-24 03:27:06,254 - INFO - ALLOWED: ogads-pa.clients6.google.com (clean: 0/94 engines)
+2025-06-24 03:27:06,291 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,301 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:06,301 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:06,326 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,337 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:06,337 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:06,356 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,364 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,367 - INFO - VirusTotal check for cdn.oaistatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,369 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:06,370 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:06,376 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:06,377 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:06,381 - INFO - Cached result for cdn.oaistatic.com: malicious=False (0/94)
+2025-06-24 03:27:06,382 - INFO - ALLOWED: cdn.oaistatic.com (clean: 0/94 engines)
+2025-06-24 03:27:06,397 - INFO - VirusTotal check for play.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,407 - INFO - Cached result for play.google.com: malicious=False (0/94)
+2025-06-24 03:27:06,408 - INFO - ALLOWED: play.google.com (clean: 0/94 engines)
+2025-06-24 03:27:06,583 - INFO - VirusTotal check for cdn.oaistatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,594 - INFO - Cached result for cdn.oaistatic.com: malicious=False (0/94)
+2025-06-24 03:27:06,594 - INFO - ALLOWED: cdn.oaistatic.com (clean: 0/94 engines)
+2025-06-24 03:27:06,635 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:27:06,636 - INFO - VirusTotal check for play.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:06,645 - INFO - Cached result for play.google.com: malicious=False (0/94)
+2025-06-24 03:27:06,646 - INFO - ALLOWED: play.google.com (clean: 0/94 engines)
+2025-06-24 03:27:07,293 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:27:07,298 - INFO - VirusTotal check for chatgpt.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:07,306 - INFO - Cached result for chatgpt.com: malicious=False (1/94)
+2025-06-24 03:27:07,307 - INFO - ALLOWED: chatgpt.com (clean: 1/94 engines)
+2025-06-24 03:27:22,116 - INFO - VirusTotal check for ab.chatgpt.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:22,125 - INFO - Cached result for ab.chatgpt.com: malicious=False (0/94)
+2025-06-24 03:27:22,127 - INFO - ALLOWED: ab.chatgpt.com (clean: 0/94 engines)
+2025-06-24 03:27:22,751 - INFO - VirusTotal check for readaloud.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:22,762 - INFO - Cached result for readaloud.googleapis.com: malicious=False (0/94)
+2025-06-24 03:27:22,763 - INFO - ALLOWED: readaloud.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:27:22,888 - INFO - VirusTotal check for ab.chatgpt.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:22,898 - INFO - Cached result for ab.chatgpt.com: malicious=False (0/94)
+2025-06-24 03:27:22,900 - INFO - ALLOWED: ab.chatgpt.com (clean: 0/94 engines)
+2025-06-24 03:27:23,585 - INFO - VirusTotal check for readaloud.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:23,598 - INFO - Cached result for readaloud.googleapis.com: malicious=False (0/94)
+2025-06-24 03:27:23,599 - INFO - ALLOWED: readaloud.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:27:48,131 - INFO - VirusTotal check for update.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:27:48,139 - INFO - Cached result for update.googleapis.com: malicious=False (0/94)
+2025-06-24 03:27:48,140 - INFO - ALLOWED: update.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:28:03,564 - INFO - VirusTotal check for edgedl.me.gvt1.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:03,570 - INFO - VirusTotal check for edgedl.me.gvt1.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:03,571 - INFO - Cached result for edgedl.me.gvt1.com: malicious=False (0/94)
+2025-06-24 03:28:03,573 - INFO - ALLOWED: edgedl.me.gvt1.com (clean: 0/94 engines)
+2025-06-24 03:28:03,580 - INFO - Cached result for edgedl.me.gvt1.com: malicious=False (0/94)
+2025-06-24 03:28:03,581 - INFO - ALLOWED: edgedl.me.gvt1.com (clean: 0/94 engines)
+2025-06-24 03:28:04,468 - INFO - VirusTotal check for beacons.gcp.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:04,477 - INFO - Cached result for beacons.gcp.gvt2.com: malicious=False (0/94)
+2025-06-24 03:28:04,477 - INFO - ALLOWED: beacons.gcp.gvt2.com (clean: 0/94 engines)
+2025-06-24 03:28:19,873 - INFO - VirusTotal check for u967289v.beget.tech: 18 malicious, 2 suspicious, 94 total
+2025-06-24 03:28:19,882 - INFO - Cached result for u967289v.beget.tech: malicious=True (20/94)
+2025-06-24 03:28:19,884 - INFO - VirusTotal check for u967289v.beget.tech: 18 malicious, 2 suspicious, 94 total
+2025-06-24 03:28:19,886 - WARNING - BLOCKED: u967289v.beget.tech (flagged by 20/94 engines)
+2025-06-24 03:28:19,886 - INFO - Blocked domain: u967289v.beget.tech
+2025-06-24 03:28:19,895 - INFO - VirusTotal check for memex-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:19,897 - INFO - Cached result for u967289v.beget.tech: malicious=True (20/94)
+2025-06-24 03:28:19,899 - WARNING - BLOCKED: u967289v.beget.tech (flagged by 20/94 engines)
+2025-06-24 03:28:19,900 - INFO - Blocked domain: u967289v.beget.tech
+2025-06-24 03:28:19,907 - INFO - Cached result for memex-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 03:28:19,908 - INFO - ALLOWED: memex-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:28:19,919 - INFO - VirusTotal check for memex-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:19,930 - INFO - VirusTotal check for clientservices.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:19,933 - INFO - Cached result for memex-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 03:28:19,945 - INFO - Cached result for clientservices.googleapis.com: malicious=False (0/94)
+2025-06-24 03:28:19,946 - INFO - ALLOWED: memex-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:28:19,946 - INFO - ALLOWED: clientservices.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:28:19,969 - INFO - VirusTotal check for accounts.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:19,977 - INFO - Cached result for accounts.google.com: malicious=False (0/94)
+2025-06-24 03:28:19,977 - INFO - ALLOWED: accounts.google.com (clean: 0/94 engines)
+2025-06-24 03:28:19,978 - INFO - VirusTotal check for clientservices.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:19,985 - INFO - Cached result for clientservices.googleapis.com: malicious=False (0/94)
+2025-06-24 03:28:19,985 - INFO - ALLOWED: clientservices.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:28:20,852 - INFO - VirusTotal check for accounts.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:20,864 - INFO - Cached result for accounts.google.com: malicious=False (0/94)
+2025-06-24 03:28:20,864 - INFO - ALLOWED: accounts.google.com (clean: 0/94 engines)
+2025-06-24 03:28:36,274 - INFO - VirusTotal check for apis.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:36,278 - INFO - VirusTotal check for www.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:36,284 - INFO - Cached result for apis.google.com: malicious=False (0/94)
+2025-06-24 03:28:36,289 - INFO - ALLOWED: apis.google.com (clean: 0/94 engines)
+2025-06-24 03:28:36,290 - INFO - Cached result for www.gstatic.com: malicious=False (0/94)
+2025-06-24 03:28:36,291 - INFO - ALLOWED: www.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:28:37,069 - INFO - VirusTotal check for www.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:37,077 - INFO - Cached result for www.gstatic.com: malicious=False (0/94)
+2025-06-24 03:28:37,078 - INFO - ALLOWED: www.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:28:37,079 - INFO - VirusTotal check for apis.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:37,087 - INFO - Cached result for apis.google.com: malicious=False (0/94)
+2025-06-24 03:28:37,088 - INFO - ALLOWED: apis.google.com (clean: 0/94 engines)
+2025-06-24 03:28:52,524 - INFO - VirusTotal check for lh3.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:52,531 - INFO - VirusTotal check for encrypted-tbn0.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:52,533 - INFO - VirusTotal check for encrypted-tbn0.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:52,533 - INFO - Cached result for lh3.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:28:52,534 - INFO - ALLOWED: lh3.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:28:52,540 - INFO - Cached result for encrypted-tbn0.gstatic.com: malicious=False (0/94)
+2025-06-24 03:28:52,543 - INFO - ALLOWED: encrypted-tbn0.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:28:52,545 - INFO - Cached result for encrypted-tbn0.gstatic.com: malicious=False (0/94)
+2025-06-24 03:28:52,549 - INFO - ALLOWED: encrypted-tbn0.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:28:53,133 - INFO - VirusTotal check for lh3.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:28:53,141 - INFO - Cached result for lh3.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:28:53,142 - INFO - ALLOWED: lh3.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:29:08,674 - INFO - VirusTotal check for cdn.ampproject.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:08,675 - INFO - VirusTotal check for github.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:08,686 - INFO - Cached result for cdn.ampproject.org: malicious=False (0/94)
+2025-06-24 03:29:08,687 - INFO - ALLOWED: cdn.ampproject.org (clean: 0/94 engines)
+2025-06-24 03:29:08,693 - INFO - Cached result for github.com: malicious=False (0/94)
+2025-06-24 03:29:08,698 - INFO - VirusTotal check for cdn.ampproject.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:08,698 - INFO - ALLOWED: github.com (clean: 0/94 engines)
+2025-06-24 03:29:08,711 - INFO - Cached result for cdn.ampproject.org: malicious=False (0/94)
+2025-06-24 03:29:08,712 - INFO - ALLOWED: cdn.ampproject.org (clean: 0/94 engines)
+2025-06-24 03:29:08,754 - INFO - VirusTotal check for github.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:08,763 - INFO - Cached result for github.com: malicious=False (0/94)
+2025-06-24 03:29:08,764 - INFO - ALLOWED: github.com (clean: 0/94 engines)
+2025-06-24 03:29:08,807 - INFO - VirusTotal check for www.googleadservices.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 03:29:08,816 - INFO - Cached result for www.googleadservices.com: malicious=False (1/94)
+2025-06-24 03:29:08,817 - INFO - ALLOWED: www.googleadservices.com (clean: 1/94 engines)
+2025-06-24 03:29:08,892 - INFO - VirusTotal check for github.githubassets.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:08,905 - INFO - Cached result for github.githubassets.com: malicious=False (1/94)
+2025-06-24 03:29:08,905 - INFO - ALLOWED: github.githubassets.com (clean: 1/94 engines)
+2025-06-24 03:29:08,913 - INFO - VirusTotal check for www.googleadservices.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 03:29:08,920 - INFO - Cached result for www.googleadservices.com: malicious=False (1/94)
+2025-06-24 03:29:08,921 - INFO - ALLOWED: www.googleadservices.com (clean: 1/94 engines)
+2025-06-24 03:29:09,294 - INFO - VirusTotal check for github.githubassets.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:09,313 - INFO - Cached result for github.githubassets.com: malicious=False (1/94)
+2025-06-24 03:29:09,314 - INFO - ALLOWED: github.githubassets.com (clean: 1/94 engines)
+2025-06-24 03:29:24,762 - INFO - VirusTotal check for phish.co.za: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:24,775 - INFO - Cached result for phish.co.za: malicious=False (0/94)
+2025-06-24 03:29:24,776 - INFO - ALLOWED: phish.co.za (clean: 0/94 engines)
+2025-06-24 03:29:24,796 - INFO - VirusTotal check for phish.co.za: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:24,811 - INFO - Cached result for phish.co.za: malicious=False (0/94)
+2025-06-24 03:29:24,811 - INFO - ALLOWED: phish.co.za (clean: 0/94 engines)
+2025-06-24 03:29:46,510 - INFO - VirusTotal check for www.kaggle.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:46,517 - INFO - Cached result for www.kaggle.com: malicious=False (0/94)
+2025-06-24 03:29:46,518 - INFO - ALLOWED: www.kaggle.com (clean: 0/94 engines)
+2025-06-24 03:29:46,641 - INFO - VirusTotal check for fonts.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:29:46,649 - INFO - Cached result for fonts.googleapis.com: malicious=False (0/94)
+2025-06-24 03:29:46,651 - INFO - ALLOWED: fonts.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:30:01,975 - INFO - VirusTotal check for use.typekit.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:01,983 - INFO - Cached result for use.typekit.net: malicious=False (0/94)
+2025-06-24 03:30:01,983 - INFO - ALLOWED: use.typekit.net (clean: 0/94 engines)
+2025-06-24 03:30:01,988 - INFO - VirusTotal check for p.typekit.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,006 - INFO - Cached result for p.typekit.net: malicious=False (0/94)
+2025-06-24 03:30:02,007 - INFO - ALLOWED: p.typekit.net (clean: 0/94 engines)
+2025-06-24 03:30:02,091 - INFO - VirusTotal check for p.typekit.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,092 - INFO - VirusTotal check for fonts.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,118 - INFO - Cached result for fonts.gstatic.com: malicious=False (0/94)
+2025-06-24 03:30:02,118 - INFO - ALLOWED: fonts.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:30:02,135 - INFO - VirusTotal check for stats.g.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,137 - INFO - Cached result for p.typekit.net: malicious=False (0/94)
+2025-06-24 03:30:02,138 - INFO - ALLOWED: p.typekit.net (clean: 0/94 engines)
+2025-06-24 03:30:02,157 - INFO - Cached result for stats.g.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:30:02,160 - INFO - ALLOWED: stats.g.doubleclick.net (clean: 0/94 engines)
+2025-06-24 03:30:02,193 - INFO - VirusTotal check for fonts.gstatic.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,201 - INFO - Cached result for fonts.gstatic.com: malicious=False (0/94)
+2025-06-24 03:30:02,201 - INFO - ALLOWED: fonts.gstatic.com (clean: 0/94 engines)
+2025-06-24 03:30:02,231 - INFO - VirusTotal check for content-autofill.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,240 - INFO - Cached result for content-autofill.googleapis.com: malicious=False (0/94)
+2025-06-24 03:30:02,241 - INFO - VirusTotal check for content-autofill.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,241 - INFO - ALLOWED: content-autofill.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:30:02,242 - INFO - VirusTotal check for opendatacommons.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,248 - INFO - VirusTotal check for www.googletagmanager.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,255 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,255 - INFO - Cached result for content-autofill.googleapis.com: malicious=False (0/94)
+2025-06-24 03:30:02,256 - INFO - VirusTotal check for storage.googleapis.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,256 - INFO - ALLOWED: content-autofill.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:30:02,263 - INFO - Cached result for opendatacommons.org: malicious=False (0/94)
+2025-06-24 03:30:02,263 - INFO - ALLOWED: opendatacommons.org (clean: 0/94 engines)
+2025-06-24 03:30:02,273 - INFO - Cached result for www.googletagmanager.com: malicious=False (0/94)
+2025-06-24 03:30:02,273 - INFO - ALLOWED: www.googletagmanager.com (clean: 0/94 engines)
+2025-06-24 03:30:02,292 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,293 - INFO - VirusTotal check for storage.googleapis.com: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,298 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,298 - INFO - Cached result for storage.googleapis.com: malicious=False (1/94)
+2025-06-24 03:30:02,299 - INFO - VirusTotal check for www.kaggleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,300 - INFO - ALLOWED: storage.googleapis.com (clean: 1/94 engines)
+2025-06-24 03:30:02,303 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,304 - INFO - VirusTotal check for use.typekit.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,311 - INFO - Cached result for storage.googleapis.com: malicious=False (1/94)
+2025-06-24 03:30:02,313 - INFO - ALLOWED: storage.googleapis.com (clean: 1/94 engines)
+2025-06-24 03:30:02,318 - INFO - Cached result for www.kaggleusercontent.com: malicious=False (0/94)
+2025-06-24 03:30:02,319 - INFO - ALLOWED: www.kaggleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:30:02,326 - INFO - Cached result for use.typekit.net: malicious=False (0/94)
+2025-06-24 03:30:02,326 - INFO - ALLOWED: use.typekit.net (clean: 0/94 engines)
+2025-06-24 03:30:02,340 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,341 - INFO - VirusTotal check for stats.g.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,350 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,351 - INFO - VirusTotal check for www.kaggleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,352 - INFO - Cached result for stats.g.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:30:02,352 - INFO - ALLOWED: stats.g.doubleclick.net (clean: 0/94 engines)
+2025-06-24 03:30:02,362 - INFO - Cached result for www.kaggleusercontent.com: malicious=False (0/94)
+2025-06-24 03:30:02,363 - INFO - ALLOWED: www.kaggleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:30:02,697 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,698 - INFO - VirusTotal check for www.googletagmanager.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,706 - INFO - Cached result for www.googletagmanager.com: malicious=False (0/94)
+2025-06-24 03:30:02,707 - INFO - ALLOWED: www.googletagmanager.com (clean: 0/94 engines)
+2025-06-24 03:30:02,963 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:02,964 - INFO - VirusTotal check for www.google-analytics.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:02,983 - INFO - Cached result for www.google-analytics.com: malicious=False (0/94)
+2025-06-24 03:30:02,985 - INFO - ALLOWED: www.google-analytics.com (clean: 0/94 engines)
+2025-06-24 03:30:03,035 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:03,037 - INFO - VirusTotal check for www.google-analytics.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:03,046 - INFO - Cached result for www.google-analytics.com: malicious=False (0/94)
+2025-06-24 03:30:03,046 - INFO - ALLOWED: www.google-analytics.com (clean: 0/94 engines)
+2025-06-24 03:30:18,508 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,516 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,519 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,526 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,528 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,530 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,535 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,541 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,543 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,548 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,552 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,553 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,556 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,557 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,563 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,563 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,570 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,571 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,574 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,582 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,582 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:18,586 - INFO - VirusTotal check for analytics.kaggle.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,590 - INFO - VirusTotal check for analytics.kaggle.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,596 - INFO - Cached result for analytics.kaggle.io: malicious=False (0/94)
+2025-06-24 03:30:18,596 - INFO - ALLOWED: analytics.kaggle.io (clean: 0/94 engines)
+2025-06-24 03:30:18,602 - INFO - Cached result for analytics.kaggle.io: malicious=False (0/94)
+2025-06-24 03:30:18,603 - INFO - ALLOWED: analytics.kaggle.io (clean: 0/94 engines)
+2025-06-24 03:30:18,627 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:18,635 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:18,636 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:30:19,282 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:30:19,290 - INFO - VirusTotal check for lingshc.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:30:19,297 - INFO - Cached result for lingshc.com: malicious=False (0/94)
+2025-06-24 03:30:19,298 - INFO - ALLOWED: lingshc.com (clean: 0/94 engines)
+2025-06-24 03:33:34,226 - INFO - VirusTotal check for phishing.testcategory.com: 3 malicious, 0 suspicious, 94 total
+2025-06-24 03:33:34,235 - INFO - Cached result for phishing.testcategory.com: malicious=True (3/94)
+2025-06-24 03:33:34,236 - WARNING - BLOCKED: phishing.testcategory.com (flagged by 3/94 engines)
+2025-06-24 03:33:34,236 - INFO - Blocked domain: phishing.testcategory.com
+2025-06-24 03:35:26,814 - INFO - Blocked domain: phishing.testcategory.com
+2025-06-24 03:36:06,425 - INFO - VirusTotal check for youtubei.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:36:06,441 - INFO - Cached result for youtubei.googleapis.com: malicious=False (0/94)
+2025-06-24 03:36:06,441 - INFO - ALLOWED: youtubei.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:36:06,502 - INFO - VirusTotal check for youtubei.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:36:06,518 - INFO - Cached result for youtubei.googleapis.com: malicious=False (0/94)
+2025-06-24 03:36:06,519 - INFO - ALLOWED: youtubei.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:36:47,943 - INFO - Blocked domain: phishing.testcategory.com
+2025-06-24 03:37:18,510 - INFO - VirusTotal check for www.youtube.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:18,517 - INFO - Cached result for www.youtube.com: malicious=False (0/94)
+2025-06-24 03:37:18,517 - INFO - ALLOWED: www.youtube.com (clean: 0/94 engines)
+2025-06-24 03:37:33,938 - INFO - VirusTotal check for lh4.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:33,944 - INFO - Cached result for lh4.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:37:33,945 - INFO - ALLOWED: lh4.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:37:33,965 - INFO - VirusTotal check for yt3.ggpht.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:33,976 - INFO - Cached result for yt3.ggpht.com: malicious=False (0/94)
+2025-06-24 03:37:33,977 - INFO - VirusTotal check for s.youtube.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:33,977 - INFO - ALLOWED: yt3.ggpht.com (clean: 0/94 engines)
+2025-06-24 03:37:33,987 - INFO - Cached result for s.youtube.com: malicious=False (0/94)
+2025-06-24 03:37:33,989 - INFO - ALLOWED: s.youtube.com (clean: 0/94 engines)
+2025-06-24 03:37:34,027 - INFO - VirusTotal check for rr1---sn-xmjpuxa-qxae7.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,038 - INFO - Cached result for rr1---sn-xmjpuxa-qxae7.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,038 - INFO - ALLOWED: rr1---sn-xmjpuxa-qxae7.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,047 - INFO - VirusTotal check for suggestqueries.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,056 - INFO - Cached result for suggestqueries.google.com: malicious=False (0/94)
+2025-06-24 03:37:34,058 - INFO - ALLOWED: suggestqueries.google.com (clean: 0/94 engines)
+2025-06-24 03:37:34,092 - INFO - VirusTotal check for rr2---sn-xmjpuxa-qxae7.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,101 - INFO - VirusTotal check for rr1---sn-xmjpuxa-qxae7.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,102 - INFO - Cached result for rr2---sn-xmjpuxa-qxae7.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,103 - INFO - ALLOWED: rr2---sn-xmjpuxa-qxae7.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,110 - INFO - Cached result for rr1---sn-xmjpuxa-qxae7.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,111 - INFO - ALLOWED: rr1---sn-xmjpuxa-qxae7.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,165 - INFO - VirusTotal check for suggestqueries.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,171 - INFO - VirusTotal check for rr3---sn-xmjpuxa-qxa6.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,178 - INFO - Cached result for suggestqueries.google.com: malicious=False (0/94)
+2025-06-24 03:37:34,178 - INFO - ALLOWED: suggestqueries.google.com (clean: 0/94 engines)
+2025-06-24 03:37:34,183 - INFO - VirusTotal check for rr2---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,185 - INFO - Cached result for rr3---sn-xmjpuxa-qxa6.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,185 - INFO - ALLOWED: rr3---sn-xmjpuxa-qxa6.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,193 - INFO - Cached result for rr2---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,193 - INFO - ALLOWED: rr2---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,198 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,202 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,203 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,205 - INFO - VirusTotal check for rr1---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,208 - INFO - VirusTotal check for rr3---sn-xmjpuxa-qxa6.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,212 - INFO - VirusTotal check for redirector.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,213 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,213 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,218 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,218 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,222 - INFO - VirusTotal check for lh5.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,224 - INFO - VirusTotal check for i.ytimg.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,226 - INFO - VirusTotal check for lh5.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,227 - INFO - VirusTotal check for lh4.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,228 - INFO - Cached result for rr1---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,229 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,229 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,232 - INFO - ALLOWED: rr1---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,233 - INFO - VirusTotal check for yt3.ggpht.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,234 - INFO - VirusTotal check for i.ytimg.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,234 - INFO - Cached result for rr3---sn-xmjpuxa-qxa6.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,237 - INFO - ALLOWED: rr3---sn-xmjpuxa-qxa6.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,243 - INFO - Cached result for redirector.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,244 - INFO - ALLOWED: redirector.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,251 - INFO - Cached result for lh5.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:37:34,251 - INFO - ALLOWED: lh5.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:37:34,253 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,254 - INFO - VirusTotal check for rr1---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,258 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,259 - INFO - VirusTotal check for s.youtube.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,259 - INFO - Cached result for lh5.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:37:34,260 - INFO - ALLOWED: lh5.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:37:34,266 - INFO - Cached result for i.ytimg.com: malicious=False (0/94)
+2025-06-24 03:37:34,268 - INFO - ALLOWED: i.ytimg.com (clean: 0/94 engines)
+2025-06-24 03:37:34,273 - INFO - Cached result for i.ytimg.com: malicious=False (0/94)
+2025-06-24 03:37:34,274 - INFO - ALLOWED: i.ytimg.com (clean: 0/94 engines)
+2025-06-24 03:37:34,281 - INFO - Cached result for yt3.ggpht.com: malicious=False (0/94)
+2025-06-24 03:37:34,282 - INFO - ALLOWED: yt3.ggpht.com (clean: 0/94 engines)
+2025-06-24 03:37:34,290 - INFO - Cached result for rr1---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,291 - INFO - ALLOWED: rr1---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,305 - INFO - Cached result for s.youtube.com: malicious=False (0/94)
+2025-06-24 03:37:34,306 - INFO - ALLOWED: s.youtube.com (clean: 0/94 engines)
+2025-06-24 03:37:34,313 - INFO - Cached result for lh4.googleusercontent.com: malicious=False (0/94)
+2025-06-24 03:37:34,313 - INFO - ALLOWED: lh4.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 03:37:34,332 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,333 - INFO - VirusTotal check for rr2---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,343 - INFO - Cached result for rr2---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,343 - INFO - ALLOWED: rr2---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,410 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,411 - INFO - VirusTotal check for rr3---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,422 - INFO - Cached result for rr3---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,422 - INFO - ALLOWED: rr3---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,605 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,606 - INFO - VirusTotal check for rr2---sn-xmjpuxa-qxae7.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,613 - INFO - Cached result for rr2---sn-xmjpuxa-qxae7.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,613 - INFO - ALLOWED: rr2---sn-xmjpuxa-qxae7.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:34,973 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:34,975 - INFO - VirusTotal check for redirector.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:34,984 - INFO - Cached result for redirector.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:34,985 - INFO - ALLOWED: redirector.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:37:35,076 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 03:37:35,077 - INFO - VirusTotal check for rr3---sn-xmjpuxa-qxael.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:37:35,085 - INFO - Cached result for rr3---sn-xmjpuxa-qxael.googlevideo.com: malicious=False (0/94)
+2025-06-24 03:37:35,086 - INFO - ALLOWED: rr3---sn-xmjpuxa-qxael.googlevideo.com (clean: 0/94 engines)
+2025-06-24 03:42:50,113 - INFO - Blocked domain: phishing.testcategory.com
+2025-06-24 03:43:17,062 - INFO - VirusTotal check for malware.testcategory.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:43:17,079 - INFO - Cached result for malware.testcategory.com: malicious=False (0/94)
+2025-06-24 03:43:17,080 - INFO - ALLOWED: malware.testcategory.com (clean: 0/94 engines)
+2025-06-24 03:45:31,743 - INFO - VirusTotal check for dns-tunnel-check.googlezip.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:31,754 - INFO - Cached result for dns-tunnel-check.googlezip.net: malicious=False (1/94)
+2025-06-24 03:45:31,756 - INFO - ALLOWED: dns-tunnel-check.googlezip.net (clean: 1/94 engines)
+2025-06-24 03:45:32,403 - INFO - VirusTotal check for tunnel.googlezip.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:32,410 - INFO - Cached result for tunnel.googlezip.net: malicious=False (1/94)
+2025-06-24 03:45:32,412 - INFO - ALLOWED: tunnel.googlezip.net (clean: 1/94 engines)
+2025-06-24 03:45:47,809 - INFO - VirusTotal check for static.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:47,818 - INFO - Cached result for static.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:45:47,819 - INFO - ALLOWED: static.doubleclick.net (clean: 0/94 engines)
+2025-06-24 03:45:47,847 - INFO - VirusTotal check for static.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:47,856 - INFO - Cached result for static.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:45:47,861 - INFO - ALLOWED: static.doubleclick.net (clean: 0/94 engines)
+2025-06-24 03:45:47,876 - INFO - VirusTotal check for jnn-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:47,894 - INFO - Cached result for jnn-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 03:45:47,895 - INFO - ALLOWED: jnn-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:45:47,987 - INFO - VirusTotal check for tunnel.googlezip.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:48,000 - INFO - Cached result for tunnel.googlezip.net: malicious=False (1/94)
+2025-06-24 03:45:48,001 - INFO - ALLOWED: tunnel.googlezip.net (clean: 1/94 engines)
+2025-06-24 03:45:48,377 - INFO - VirusTotal check for googleads.g.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:48,389 - INFO - Cached result for googleads.g.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:45:48,389 - INFO - ALLOWED: googleads.g.doubleclick.net (clean: 0/94 engines)
+2025-06-24 03:45:48,689 - INFO - VirusTotal check for jnn-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:48,702 - INFO - VirusTotal check for googleads.g.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 03:45:48,705 - INFO - Cached result for jnn-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 03:45:48,707 - INFO - ALLOWED: jnn-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 03:45:48,716 - INFO - Cached result for googleads.g.doubleclick.net: malicious=False (0/94)
+2025-06-24 03:45:48,717 - INFO - ALLOWED: googleads.g.doubleclick.net (clean: 0/94 engines)
+2025-06-24 04:08:02,897 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 04:08:02,919 - INFO - Warning server started on port 8080
+2025-06-24 04:08:02,919 - INFO - Cache cleanup thread started
+2025-06-24 04:09:50,844 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 04:11:19,532 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 04:12:25,874 - INFO - VirusTotal check for examplephishingsite.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:12:25,881 - INFO - Cached result for examplephishingsite.com: malicious=False (0/94)
+2025-06-24 04:12:25,881 - INFO - ALLOWED: examplephishingsite.com (clean: 0/94 engines)
+2025-06-24 04:17:28,606 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 04:17:28,622 - INFO - Warning server started on port 8080
+2025-06-24 04:17:28,622 - INFO - Cache cleanup thread started
+2025-06-24 04:18:02,506 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 04:22:29,432 - INFO - VirusTotal check for static.xx.fbcdn.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:22:29,438 - INFO - Cached result for static.xx.fbcdn.net: malicious=False (0/94)
+2025-06-24 04:22:29,439 - INFO - ALLOWED: static.xx.fbcdn.net (clean: 0/94 engines)
+2025-06-24 04:22:29,771 - INFO - VirusTotal check for static.xx.fbcdn.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:22:29,780 - INFO - Cached result for static.xx.fbcdn.net: malicious=False (0/94)
+2025-06-24 04:22:29,781 - INFO - ALLOWED: static.xx.fbcdn.net (clean: 0/94 engines)
+2025-06-24 04:23:25,069 - INFO - VirusTotal check for discover-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:23:25,074 - INFO - Cached result for discover-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 04:23:25,075 - INFO - ALLOWED: discover-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 04:35:25,182 - ERROR - Exception checking beacons3.gvt2.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 04:35:25,191 - INFO - Cached result for beacons3.gvt2.com: malicious=False (0/0)
+2025-06-24 04:35:25,192 - INFO - ALLOWED: beacons3.gvt2.com (clean: 0/0 engines)
+2025-06-24 04:35:26,039 - ERROR - Exception checking beacons3.gvt2.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 04:35:26,050 - INFO - Cached result for beacons3.gvt2.com: malicious=False (0/0)
+2025-06-24 04:35:26,051 - INFO - ALLOWED: beacons3.gvt2.com (clean: 0/0 engines)
+2025-06-24 04:45:42,743 - INFO - VirusTotal check for rr4---sn-xmjpuxa-qxa6.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:45:42,748 - INFO - VirusTotal check for ad.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:45:42,750 - INFO - Cached result for rr4---sn-xmjpuxa-qxa6.googlevideo.com: malicious=False (0/94)
+2025-06-24 04:45:42,751 - INFO - ALLOWED: rr4---sn-xmjpuxa-qxa6.googlevideo.com (clean: 0/94 engines)
+2025-06-24 04:45:42,752 - INFO - Cached result for ad.doubleclick.net: malicious=False (0/94)
+2025-06-24 04:45:42,753 - INFO - ALLOWED: ad.doubleclick.net (clean: 0/94 engines)
+2025-06-24 04:45:58,208 - INFO - VirusTotal check for notifications-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:45:58,211 - INFO - Cached result for notifications-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 04:45:58,212 - INFO - ALLOWED: notifications-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 04:45:58,218 - INFO - VirusTotal check for notifications-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:45:58,224 - INFO - Cached result for notifications-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 04:45:58,224 - INFO - ALLOWED: notifications-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 04:46:13,936 - INFO - VirusTotal check for yt3.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:46:13,937 - INFO - VirusTotal check for yt3.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:46:13,942 - INFO - Cached result for yt3.googleusercontent.com: malicious=False (0/94)
+2025-06-24 04:46:13,943 - INFO - ALLOWED: yt3.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 04:46:13,947 - INFO - Cached result for yt3.googleusercontent.com: malicious=False (0/94)
+2025-06-24 04:46:13,948 - INFO - ALLOWED: yt3.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 04:48:27,199 - INFO - VirusTotal check for rr2---sn-xmjpuxa-qxa6.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:48:27,205 - INFO - Cached result for rr2---sn-xmjpuxa-qxa6.googlevideo.com: malicious=False (0/94)
+2025-06-24 04:48:27,205 - INFO - ALLOWED: rr2---sn-xmjpuxa-qxa6.googlevideo.com (clean: 0/94 engines)
+2025-06-24 04:49:56,828 - INFO - Warning server stopped
+2025-06-24 04:52:36,740 - INFO - Warning server stopped
+2025-06-24 04:53:06,999 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 04:53:07,019 - INFO - Warning server started on port 8080
+2025-06-24 04:53:07,020 - INFO - Cache cleanup thread started
+2025-06-24 04:53:19,939 - INFO - VirusTotal check for instantmessaging-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:53:19,946 - INFO - Cached result for instantmessaging-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 04:53:19,946 - INFO - ALLOWED: instantmessaging-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 04:56:22,469 - INFO - VirusTotal check for 0-db--ip-com-0.webpkgcache.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:56:22,475 - INFO - Cached result for 0-db--ip-com-0.webpkgcache.com: malicious=False (0/94)
+2025-06-24 04:56:22,475 - INFO - ALLOWED: 0-db--ip-com-0.webpkgcache.com (clean: 0/94 engines)
+2025-06-24 04:58:07,815 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 04:59:46,485 - INFO - VirusTotal check for getgophish.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 04:59:46,493 - INFO - Cached result for getgophish.com: malicious=False (0/94)
+2025-06-24 04:59:46,493 - INFO - ALLOWED: getgophish.com (clean: 0/94 engines)
+2025-06-24 05:03:19,711 - INFO - VirusTotal check for rr1---sn-qxa7snel.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:03:19,730 - INFO - Cached result for rr1---sn-qxa7snel.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:03:19,731 - INFO - ALLOWED: rr1---sn-qxa7snel.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:03:35,173 - INFO - VirusTotal check for tutedude.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:03:35,180 - INFO - Cached result for tutedude.com: malicious=False (0/94)
+2025-06-24 05:03:35,180 - INFO - ALLOWED: tutedude.com (clean: 0/94 engines)
+2025-06-24 05:03:35,455 - INFO - VirusTotal check for tutedude.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:03:35,462 - INFO - Cached result for tutedude.com: malicious=False (0/94)
+2025-06-24 05:03:35,462 - INFO - ALLOWED: tutedude.com (clean: 0/94 engines)
+2025-06-24 05:12:22,035 - INFO - VirusTotal check for meghanadikshit.sgacademy.info: 2 malicious, 0 suspicious, 94 total
+2025-06-24 05:12:22,049 - INFO - Cached result for meghanadikshit.sgacademy.info: malicious=True (2/94)
+2025-06-24 05:12:22,051 - WARNING - BLOCKED: meghanadikshit.sgacademy.info (flagged by 2/94 engines)
+2025-06-24 05:12:22,051 - INFO - Blocked domain: meghanadikshit.sgacademy.info - redirecting to warning page
+2025-06-24 05:12:22,172 - INFO - VirusTotal check for meghanadikshit.sgacademy.info: 2 malicious, 0 suspicious, 94 total
+2025-06-24 05:12:22,184 - INFO - Cached result for meghanadikshit.sgacademy.info: malicious=True (2/94)
+2025-06-24 05:12:22,185 - WARNING - BLOCKED: meghanadikshit.sgacademy.info (flagged by 2/94 engines)
+2025-06-24 05:12:22,186 - INFO - Blocked domain: meghanadikshit.sgacademy.info - redirecting to warning page
+2025-06-24 05:20:53,938 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 05:22:18,648 - INFO - VirusTotal check for caniphish.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:18,657 - INFO - Cached result for caniphish.com: malicious=False (0/94)
+2025-06-24 05:22:18,658 - INFO - ALLOWED: caniphish.com (clean: 0/94 engines)
+2025-06-24 05:22:34,097 - INFO - VirusTotal check for d3p8e1mvy30w84.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,102 - INFO - Cached result for d3p8e1mvy30w84.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:34,103 - INFO - ALLOWED: d3p8e1mvy30w84.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:34,365 - INFO - VirusTotal check for www.google.co.in: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,370 - INFO - Cached result for www.google.co.in: malicious=False (0/94)
+2025-06-24 05:22:34,371 - INFO - ALLOWED: www.google.co.in (clean: 0/94 engines)
+2025-06-24 05:22:34,388 - INFO - VirusTotal check for d1yynrqd2fp86j.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,395 - INFO - Cached result for d1yynrqd2fp86j.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:34,396 - INFO - ALLOWED: d1yynrqd2fp86j.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:34,397 - INFO - VirusTotal check for d1yynrqd2fp86j.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,404 - INFO - Cached result for d1yynrqd2fp86j.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:34,405 - INFO - ALLOWED: d1yynrqd2fp86j.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:34,406 - INFO - VirusTotal check for caniphish.s3.ap-southeast-2.amazonaws.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,406 - INFO - VirusTotal check for td.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,411 - INFO - Cached result for td.doubleclick.net: malicious=False (0/94)
+2025-06-24 05:22:34,412 - INFO - ALLOWED: td.doubleclick.net (clean: 0/94 engines)
+2025-06-24 05:22:34,417 - INFO - Cached result for caniphish.s3.ap-southeast-2.amazonaws.com: malicious=False (0/94)
+2025-06-24 05:22:34,417 - INFO - ALLOWED: caniphish.s3.ap-southeast-2.amazonaws.com (clean: 0/94 engines)
+2025-06-24 05:22:34,425 - INFO - VirusTotal check for td.doubleclick.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,430 - INFO - VirusTotal check for www.google.co.in: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,431 - INFO - Cached result for td.doubleclick.net: malicious=False (0/94)
+2025-06-24 05:22:34,431 - INFO - ALLOWED: td.doubleclick.net (clean: 0/94 engines)
+2025-06-24 05:22:34,436 - INFO - VirusTotal check for analytics.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,436 - INFO - VirusTotal check for maxcdn.bootstrapcdn.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,437 - INFO - Cached result for www.google.co.in: malicious=False (0/94)
+2025-06-24 05:22:34,437 - INFO - ALLOWED: www.google.co.in (clean: 0/94 engines)
+2025-06-24 05:22:34,441 - INFO - Cached result for maxcdn.bootstrapcdn.com: malicious=False (0/94)
+2025-06-24 05:22:34,441 - INFO - ALLOWED: maxcdn.bootstrapcdn.com (clean: 0/94 engines)
+2025-06-24 05:22:34,444 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:34,446 - INFO - VirusTotal check for www.phishing.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,447 - INFO - Cached result for analytics.google.com: malicious=False (0/94)
+2025-06-24 05:22:34,447 - INFO - ALLOWED: analytics.google.com (clean: 0/94 engines)
+2025-06-24 05:22:34,452 - INFO - Cached result for www.phishing.org: malicious=False (0/94)
+2025-06-24 05:22:34,452 - INFO - ALLOWED: www.phishing.org (clean: 0/94 engines)
+2025-06-24 05:22:34,630 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:34,631 - INFO - VirusTotal check for analytics.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:34,637 - INFO - Cached result for analytics.google.com: malicious=False (0/94)
+2025-06-24 05:22:34,638 - INFO - ALLOWED: analytics.google.com (clean: 0/94 engines)
+2025-06-24 05:22:35,187 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:35,188 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:35,188 - INFO - VirusTotal check for www.phishing.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:35,188 - INFO - VirusTotal check for 7052064.fs1.hubspotusercontent-na1.net: 0 malicious, 1 suspicious, 94 total
+2025-06-24 05:22:35,194 - INFO - Cached result for www.phishing.org: malicious=False (0/94)
+2025-06-24 05:22:35,194 - INFO - ALLOWED: www.phishing.org (clean: 0/94 engines)
+2025-06-24 05:22:35,198 - INFO - Cached result for 7052064.fs1.hubspotusercontent-na1.net: malicious=False (1/94)
+2025-06-24 05:22:35,199 - INFO - ALLOWED: 7052064.fs1.hubspotusercontent-na1.net (clean: 1/94 engines)
+2025-06-24 05:22:35,303 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:35,303 - INFO - VirusTotal check for d3p8e1mvy30w84.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:35,325 - INFO - Cached result for d3p8e1mvy30w84.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:35,326 - INFO - ALLOWED: d3p8e1mvy30w84.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:35,373 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:35,374 - INFO - VirusTotal check for caniphish.s3.ap-southeast-2.amazonaws.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:35,381 - INFO - Cached result for caniphish.s3.ap-southeast-2.amazonaws.com: malicious=False (0/94)
+2025-06-24 05:22:35,382 - INFO - ALLOWED: caniphish.s3.ap-southeast-2.amazonaws.com (clean: 0/94 engines)
+2025-06-24 05:22:35,518 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:35,518 - INFO - VirusTotal check for no-cache.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:35,522 - INFO - Cached result for no-cache.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:35,523 - INFO - ALLOWED: no-cache.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:43,701 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:43,705 - ERROR - Exception checking 7052064.fs1.hubspotusercontent-na1.net: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 05:22:43,711 - INFO - Cached result for 7052064.fs1.hubspotusercontent-na1.net: malicious=False (0/0)
+2025-06-24 05:22:43,711 - INFO - ALLOWED: 7052064.fs1.hubspotusercontent-na1.net (clean: 0/0 engines)
+2025-06-24 05:22:50,073 - INFO - VirusTotal check for no-cache.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,078 - INFO - Cached result for no-cache.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:50,078 - INFO - ALLOWED: no-cache.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:50,796 - INFO - VirusTotal check for d31qbv1cthcecs.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,821 - INFO - VirusTotal check for js.hs-analytics.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,822 - INFO - VirusTotal check for js.hs-banner.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,824 - INFO - Cached result for d31qbv1cthcecs.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:50,824 - INFO - ALLOWED: d31qbv1cthcecs.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:50,828 - INFO - Cached result for js.hs-analytics.net: malicious=False (0/94)
+2025-06-24 05:22:50,829 - INFO - VirusTotal check for js.hsadspixel.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,829 - INFO - ALLOWED: js.hs-analytics.net (clean: 0/94 engines)
+2025-06-24 05:22:50,831 - INFO - Cached result for js.hs-banner.com: malicious=False (0/94)
+2025-06-24 05:22:50,832 - INFO - ALLOWED: js.hs-banner.com (clean: 0/94 engines)
+2025-06-24 05:22:50,835 - INFO - Cached result for js.hsadspixel.net: malicious=False (0/94)
+2025-06-24 05:22:50,836 - INFO - ALLOWED: js.hsadspixel.net (clean: 0/94 engines)
+2025-06-24 05:22:50,864 - INFO - VirusTotal check for js.usemessages.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,871 - INFO - Cached result for js.usemessages.com: malicious=False (0/94)
+2025-06-24 05:22:50,872 - INFO - ALLOWED: js.usemessages.com (clean: 0/94 engines)
+2025-06-24 05:22:50,894 - INFO - VirusTotal check for js.hsleadflows.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,900 - INFO - Cached result for js.hsleadflows.net: malicious=False (0/94)
+2025-06-24 05:22:50,901 - INFO - ALLOWED: js.hsleadflows.net (clean: 0/94 engines)
+2025-06-24 05:22:50,906 - INFO - VirusTotal check for js.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,912 - INFO - Cached result for js.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:50,912 - INFO - ALLOWED: js.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:50,969 - INFO - VirusTotal check for perf-na1.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:50,975 - INFO - Cached result for perf-na1.hsforms.com: malicious=False (0/94)
+2025-06-24 05:22:50,976 - INFO - ALLOWED: perf-na1.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:22:51,092 - INFO - VirusTotal check for snap.licdn.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,102 - INFO - Cached result for snap.licdn.com: malicious=False (0/94)
+2025-06-24 05:22:51,102 - INFO - ALLOWED: snap.licdn.com (clean: 0/94 engines)
+2025-06-24 05:22:51,124 - INFO - VirusTotal check for d31qbv1cthcecs.cloudfront.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,132 - INFO - Cached result for d31qbv1cthcecs.cloudfront.net: malicious=False (0/94)
+2025-06-24 05:22:51,132 - INFO - ALLOWED: d31qbv1cthcecs.cloudfront.net (clean: 0/94 engines)
+2025-06-24 05:22:51,147 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,148 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,148 - INFO - VirusTotal check for js.hs-analytics.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,149 - INFO - VirusTotal check for px.ads.linkedin.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,151 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,151 - INFO - VirusTotal check for cta-service-cms2.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,154 - INFO - Cached result for px.ads.linkedin.com: malicious=False (0/94)
+2025-06-24 05:22:51,154 - INFO - ALLOWED: px.ads.linkedin.com (clean: 0/94 engines)
+2025-06-24 05:22:51,158 - INFO - Cached result for js.hs-analytics.net: malicious=False (0/94)
+2025-06-24 05:22:51,158 - INFO - ALLOWED: js.hs-analytics.net (clean: 0/94 engines)
+2025-06-24 05:22:51,164 - INFO - Cached result for cta-service-cms2.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,165 - INFO - ALLOWED: cta-service-cms2.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,171 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,171 - INFO - VirusTotal check for px.ads.linkedin.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,177 - INFO - Cached result for px.ads.linkedin.com: malicious=False (0/94)
+2025-06-24 05:22:51,178 - INFO - ALLOWED: px.ads.linkedin.com (clean: 0/94 engines)
+2025-06-24 05:22:51,185 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,185 - INFO - VirusTotal check for perf-na1.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,191 - INFO - Cached result for perf-na1.hsforms.com: malicious=False (0/94)
+2025-06-24 05:22:51,191 - INFO - ALLOWED: perf-na1.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:22:51,216 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,216 - INFO - VirusTotal check for app.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,216 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,217 - INFO - VirusTotal check for snap.licdn.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,222 - INFO - Cached result for app.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,222 - INFO - ALLOWED: app.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,225 - INFO - Cached result for snap.licdn.com: malicious=False (0/94)
+2025-06-24 05:22:51,226 - INFO - ALLOWED: snap.licdn.com (clean: 0/94 engines)
+2025-06-24 05:22:51,240 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,240 - INFO - VirusTotal check for js.hsadspixel.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,246 - INFO - Cached result for js.hsadspixel.net: malicious=False (0/94)
+2025-06-24 05:22:51,247 - INFO - ALLOWED: js.hsadspixel.net (clean: 0/94 engines)
+2025-06-24 05:22:51,261 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,262 - INFO - VirusTotal check for perf.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,268 - INFO - Cached result for perf.hsforms.com: malicious=False (0/94)
+2025-06-24 05:22:51,268 - INFO - ALLOWED: perf.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:22:51,275 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,275 - INFO - VirusTotal check for cta-service-cms2.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,283 - INFO - Cached result for cta-service-cms2.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,284 - INFO - ALLOWED: cta-service-cms2.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,302 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,303 - INFO - VirusTotal check for www.linkedin.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,309 - INFO - Cached result for www.linkedin.com: malicious=False (0/94)
+2025-06-24 05:22:51,309 - INFO - ALLOWED: www.linkedin.com (clean: 0/94 engines)
+2025-06-24 05:22:51,426 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,427 - INFO - VirusTotal check for perf.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,434 - INFO - Cached result for perf.hsforms.com: malicious=False (0/94)
+2025-06-24 05:22:51,435 - INFO - ALLOWED: perf.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:22:51,518 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,519 - INFO - VirusTotal check for js.usemessages.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,533 - INFO - Cached result for js.usemessages.com: malicious=False (0/94)
+2025-06-24 05:22:51,533 - INFO - ALLOWED: js.usemessages.com (clean: 0/94 engines)
+2025-06-24 05:22:51,932 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,932 - INFO - VirusTotal check for js.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,932 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,933 - INFO - VirusTotal check for forms.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,937 - INFO - Cached result for js.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,938 - INFO - ALLOWED: js.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,940 - INFO - Cached result for forms.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,941 - INFO - ALLOWED: forms.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,942 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,942 - INFO - VirusTotal check for app.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,947 - INFO - Cached result for app.hubspot.com: malicious=False (0/94)
+2025-06-24 05:22:51,948 - INFO - ALLOWED: app.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:22:51,964 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,965 - INFO - VirusTotal check for js.hsleadflows.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,968 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:51,969 - INFO - VirusTotal check for js.hs-banner.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:51,972 - INFO - Cached result for js.hsleadflows.net: malicious=False (0/94)
+2025-06-24 05:22:51,972 - INFO - ALLOWED: js.hsleadflows.net (clean: 0/94 engines)
+2025-06-24 05:22:51,977 - INFO - Cached result for js.hs-banner.com: malicious=False (0/94)
+2025-06-24 05:22:51,977 - INFO - ALLOWED: js.hs-banner.com (clean: 0/94 engines)
+2025-06-24 05:22:52,039 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:52,039 - INFO - VirusTotal check for api.hubapi.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:52,047 - INFO - Cached result for api.hubapi.com: malicious=False (0/94)
+2025-06-24 05:22:52,047 - INFO - ALLOWED: api.hubapi.com (clean: 0/94 engines)
+2025-06-24 05:22:52,065 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:22:52,065 - INFO - VirusTotal check for api.hubapi.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:22:52,072 - INFO - Cached result for api.hubapi.com: malicious=False (0/94)
+2025-06-24 05:22:52,072 - INFO - ALLOWED: api.hubapi.com (clean: 0/94 engines)
+2025-06-24 05:23:05,505 - INFO - VirusTotal check for www.linkedin.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:05,512 - INFO - Cached result for www.linkedin.com: malicious=False (0/94)
+2025-06-24 05:23:05,512 - INFO - ALLOWED: www.linkedin.com (clean: 0/94 engines)
+2025-06-24 05:23:06,753 - INFO - VirusTotal check for forms.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:06,759 - INFO - Cached result for forms.hubspot.com: malicious=False (0/94)
+2025-06-24 05:23:06,760 - INFO - ALLOWED: forms.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:23:07,534 - INFO - VirusTotal check for forms-na1.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,544 - INFO - Cached result for forms-na1.hsforms.com: malicious=False (0/94)
+2025-06-24 05:23:07,545 - INFO - ALLOWED: forms-na1.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:23:07,552 - INFO - VirusTotal check for challenges.cloudflare.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 05:23:07,558 - INFO - VirusTotal check for app.secureprivacy.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,558 - INFO - Cached result for challenges.cloudflare.com: malicious=False (1/94)
+2025-06-24 05:23:07,558 - INFO - ALLOWED: challenges.cloudflare.com (clean: 1/94 engines)
+2025-06-24 05:23:07,563 - INFO - Cached result for app.secureprivacy.ai: malicious=False (0/94)
+2025-06-24 05:23:07,563 - INFO - ALLOWED: app.secureprivacy.ai (clean: 0/94 engines)
+2025-06-24 05:23:07,583 - INFO - VirusTotal check for app.secureprivacy.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,588 - INFO - Cached result for app.secureprivacy.ai: malicious=False (0/94)
+2025-06-24 05:23:07,588 - INFO - ALLOWED: app.secureprivacy.ai (clean: 0/94 engines)
+2025-06-24 05:23:07,685 - INFO - VirusTotal check for www.techtarget.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,691 - INFO - Cached result for www.techtarget.com: malicious=False (0/94)
+2025-06-24 05:23:07,692 - INFO - ALLOWED: www.techtarget.com (clean: 0/94 engines)
+2025-06-24 05:23:07,719 - INFO - VirusTotal check for checkphish.bolster.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,728 - INFO - Cached result for checkphish.bolster.ai: malicious=False (0/94)
+2025-06-24 05:23:07,728 - INFO - ALLOWED: checkphish.bolster.ai (clean: 0/94 engines)
+2025-06-24 05:23:07,732 - INFO - VirusTotal check for checkphish.bolster.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:07,739 - INFO - Cached result for checkphish.bolster.ai: malicious=False (0/94)
+2025-06-24 05:23:07,739 - INFO - ALLOWED: checkphish.bolster.ai (clean: 0/94 engines)
+2025-06-24 05:23:08,299 - INFO - VirusTotal check for forms-na1.hsforms.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:08,306 - INFO - Cached result for forms-na1.hsforms.com: malicious=False (0/94)
+2025-06-24 05:23:08,306 - INFO - ALLOWED: forms-na1.hsforms.com (clean: 0/94 engines)
+2025-06-24 05:23:08,335 - INFO - VirusTotal check for challenges.cloudflare.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 05:23:08,341 - INFO - Cached result for challenges.cloudflare.com: malicious=False (1/94)
+2025-06-24 05:23:08,341 - INFO - ALLOWED: challenges.cloudflare.com (clean: 1/94 engines)
+2025-06-24 05:23:08,648 - INFO - VirusTotal check for www.techtarget.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:08,652 - INFO - Cached result for www.techtarget.com: malicious=False (0/94)
+2025-06-24 05:23:08,653 - INFO - ALLOWED: www.techtarget.com (clean: 0/94 engines)
+2025-06-24 05:23:22,403 - INFO - VirusTotal check for challenges.cloudflare.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 05:23:22,409 - INFO - Cached result for challenges.cloudflare.com: malicious=False (1/94)
+2025-06-24 05:23:22,410 - INFO - ALLOWED: challenges.cloudflare.com (clean: 1/94 engines)
+2025-06-24 05:23:24,072 - INFO - VirusTotal check for www.clarity.ms: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,075 - INFO - VirusTotal check for ajax.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,079 - INFO - Cached result for www.clarity.ms: malicious=False (0/94)
+2025-06-24 05:23:24,080 - INFO - ALLOWED: www.clarity.ms (clean: 0/94 engines)
+2025-06-24 05:23:24,081 - INFO - VirusTotal check for j.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,085 - INFO - Cached result for ajax.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:24,086 - INFO - ALLOWED: ajax.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:24,090 - INFO - Cached result for j.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:24,092 - INFO - ALLOWED: j.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:24,093 - INFO - VirusTotal check for api-prod.secureprivacy.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,096 - INFO - VirusTotal check for api-prod.secureprivacy.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,102 - INFO - Cached result for api-prod.secureprivacy.ai: malicious=False (0/94)
+2025-06-24 05:23:24,102 - INFO - ALLOWED: api-prod.secureprivacy.ai (clean: 0/94 engines)
+2025-06-24 05:23:24,109 - INFO - Cached result for api-prod.secureprivacy.ai: malicious=False (0/94)
+2025-06-24 05:23:24,109 - INFO - ALLOWED: api-prod.secureprivacy.ai (clean: 0/94 engines)
+2025-06-24 05:23:24,178 - INFO - VirusTotal check for ajax.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,179 - INFO - VirusTotal check for a.nel.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,188 - INFO - Cached result for a.nel.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:24,189 - INFO - ALLOWED: a.nel.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:24,196 - INFO - Cached result for ajax.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:24,196 - INFO - ALLOWED: ajax.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:24,205 - INFO - VirusTotal check for js.hs-scripts.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,212 - INFO - Cached result for js.hs-scripts.com: malicious=False (0/94)
+2025-06-24 05:23:24,212 - INFO - ALLOWED: js.hs-scripts.com (clean: 0/94 engines)
+2025-06-24 05:23:24,222 - INFO - VirusTotal check for www.clarity.ms: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,229 - INFO - Cached result for www.clarity.ms: malicious=False (0/94)
+2025-06-24 05:23:24,230 - INFO - ALLOWED: www.clarity.ms (clean: 0/94 engines)
+2025-06-24 05:23:24,234 - INFO - VirusTotal check for js.hs-scripts.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,243 - INFO - Cached result for js.hs-scripts.com: malicious=False (0/94)
+2025-06-24 05:23:24,243 - INFO - ALLOWED: js.hs-scripts.com (clean: 0/94 engines)
+2025-06-24 05:23:24,250 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:24,250 - INFO - VirusTotal check for j.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,257 - INFO - Cached result for j.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:24,258 - INFO - ALLOWED: j.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:24,573 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:24,574 - INFO - VirusTotal check for demo.arcade.software: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:24,580 - INFO - Cached result for demo.arcade.software: malicious=False (0/94)
+2025-06-24 05:23:24,580 - INFO - ALLOWED: demo.arcade.software (clean: 0/94 engines)
+2025-06-24 05:23:25,081 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:25,082 - INFO - VirusTotal check for a.nel.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:25,090 - INFO - Cached result for a.nel.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:25,091 - INFO - ALLOWED: a.nel.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:37,936 - INFO - VirusTotal check for demo.arcade.software: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:37,955 - INFO - Cached result for demo.arcade.software: malicious=False (0/94)
+2025-06-24 05:23:37,956 - INFO - ALLOWED: demo.arcade.software (clean: 0/94 engines)
+2025-06-24 05:23:39,601 - INFO - VirusTotal check for ipv6.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:39,606 - INFO - Cached result for ipv6.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:39,607 - INFO - ALLOWED: ipv6.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:39,767 - INFO - VirusTotal check for a.clarity.ms: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:39,775 - INFO - Cached result for a.clarity.ms: malicious=False (0/94)
+2025-06-24 05:23:39,775 - INFO - ALLOWED: a.clarity.ms (clean: 0/94 engines)
+2025-06-24 05:23:40,255 - INFO - VirusTotal check for b.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,260 - INFO - Cached result for b.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:40,261 - INFO - ALLOWED: b.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:40,354 - INFO - VirusTotal check for c.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,363 - INFO - Cached result for c.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:40,363 - INFO - ALLOWED: c.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:40,463 - INFO - VirusTotal check for epsilon.6sense.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,470 - INFO - Cached result for epsilon.6sense.com: malicious=False (0/94)
+2025-06-24 05:23:40,470 - INFO - ALLOWED: epsilon.6sense.com (clean: 0/94 engines)
+2025-06-24 05:23:40,510 - INFO - VirusTotal check for a.clarity.ms: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,516 - INFO - Cached result for a.clarity.ms: malicious=False (0/94)
+2025-06-24 05:23:40,517 - INFO - ALLOWED: a.clarity.ms (clean: 0/94 engines)
+2025-06-24 05:23:40,544 - INFO - VirusTotal check for epsilon.6sense.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,545 - INFO - VirusTotal check for b.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,545 - INFO - VirusTotal check for manifest-gcp-us-east4-vop1.fastly.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,550 - INFO - Cached result for b.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:40,551 - INFO - ALLOWED: b.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:40,555 - INFO - Cached result for epsilon.6sense.com: malicious=False (0/94)
+2025-06-24 05:23:40,555 - INFO - ALLOWED: epsilon.6sense.com (clean: 0/94 engines)
+2025-06-24 05:23:40,560 - INFO - Cached result for manifest-gcp-us-east4-vop1.fastly.mux.com: malicious=False (0/94)
+2025-06-24 05:23:40,560 - INFO - ALLOWED: manifest-gcp-us-east4-vop1.fastly.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:40,566 - INFO - VirusTotal check for app.checkphish.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,571 - INFO - Cached result for app.checkphish.ai: malicious=False (0/94)
+2025-06-24 05:23:40,572 - INFO - ALLOWED: app.checkphish.ai (clean: 0/94 engines)
+2025-06-24 05:23:40,591 - INFO - VirusTotal check for ipv6.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,599 - INFO - Cached result for ipv6.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:40,600 - INFO - ALLOWED: ipv6.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:40,649 - INFO - VirusTotal check for app.checkphish.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,650 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,651 - INFO - VirusTotal check for chunk-gcp-us-east4-vop1.fastly.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,653 - INFO - Cached result for app.checkphish.ai: malicious=False (0/94)
+2025-06-24 05:23:40,654 - INFO - ALLOWED: app.checkphish.ai (clean: 0/94 engines)
+2025-06-24 05:23:40,657 - INFO - Cached result for chunk-gcp-us-east4-vop1.fastly.mux.com: malicious=False (0/94)
+2025-06-24 05:23:40,657 - INFO - ALLOWED: chunk-gcp-us-east4-vop1.fastly.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:40,672 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,673 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,673 - INFO - VirusTotal check for stream.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,673 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,674 - INFO - VirusTotal check for t.arcade.show: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,675 - INFO - VirusTotal check for track.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,675 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,676 - INFO - VirusTotal check for image.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,681 - INFO - Cached result for stream.mux.com: malicious=False (0/94)
+2025-06-24 05:23:40,681 - INFO - ALLOWED: stream.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:40,687 - INFO - Cached result for track.hubspot.com: malicious=False (0/94)
+2025-06-24 05:23:40,687 - INFO - ALLOWED: track.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:23:40,692 - INFO - Cached result for image.mux.com: malicious=False (0/94)
+2025-06-24 05:23:40,693 - INFO - ALLOWED: image.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:40,698 - INFO - Cached result for t.arcade.show: malicious=False (0/94)
+2025-06-24 05:23:40,698 - INFO - ALLOWED: t.arcade.show (clean: 0/94 engines)
+2025-06-24 05:23:40,703 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,704 - INFO - VirusTotal check for cdn.arcade.software: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,705 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,705 - INFO - VirusTotal check for manifest-gcp-us-east4-vop1.fastly.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,710 - INFO - Cached result for cdn.arcade.software: malicious=False (0/94)
+2025-06-24 05:23:40,710 - INFO - ALLOWED: cdn.arcade.software (clean: 0/94 engines)
+2025-06-24 05:23:40,713 - INFO - Cached result for manifest-gcp-us-east4-vop1.fastly.mux.com: malicious=False (0/94)
+2025-06-24 05:23:40,713 - INFO - ALLOWED: manifest-gcp-us-east4-vop1.fastly.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:40,732 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,732 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,733 - INFO - VirusTotal check for t.arcade.show: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,733 - INFO - VirusTotal check for content-firebaseappcheck.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,742 - INFO - Cached result for content-firebaseappcheck.googleapis.com: malicious=False (0/94)
+2025-06-24 05:23:40,742 - INFO - ALLOWED: content-firebaseappcheck.googleapis.com (clean: 0/94 engines)
+2025-06-24 05:23:40,748 - INFO - Cached result for t.arcade.show: malicious=False (0/94)
+2025-06-24 05:23:40,748 - INFO - ALLOWED: t.arcade.show (clean: 0/94 engines)
+2025-06-24 05:23:40,763 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:40,763 - INFO - VirusTotal check for jogerbo5nk3a89o4gs23pv6n7.litix.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:40,769 - INFO - Cached result for jogerbo5nk3a89o4gs23pv6n7.litix.io: malicious=False (0/94)
+2025-06-24 05:23:40,770 - INFO - ALLOWED: jogerbo5nk3a89o4gs23pv6n7.litix.io (clean: 0/94 engines)
+2025-06-24 05:23:41,441 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,441 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,441 - INFO - VirusTotal check for chunk-gcp-us-east4-vop1.fastly.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,442 - INFO - VirusTotal check for cdn.arcade.software: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,459 - INFO - Cached result for chunk-gcp-us-east4-vop1.fastly.mux.com: malicious=False (0/94)
+2025-06-24 05:23:41,460 - INFO - ALLOWED: chunk-gcp-us-east4-vop1.fastly.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:41,464 - INFO - Cached result for cdn.arcade.software: malicious=False (0/94)
+2025-06-24 05:23:41,464 - INFO - ALLOWED: cdn.arcade.software (clean: 0/94 engines)
+2025-06-24 05:23:41,477 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,478 - INFO - VirusTotal check for o915751.ingest.sentry.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,479 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,479 - INFO - VirusTotal check for track.hubspot.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,484 - INFO - Cached result for track.hubspot.com: malicious=False (0/94)
+2025-06-24 05:23:41,485 - INFO - ALLOWED: track.hubspot.com (clean: 0/94 engines)
+2025-06-24 05:23:41,490 - INFO - Cached result for o915751.ingest.sentry.io: malicious=False (0/94)
+2025-06-24 05:23:41,490 - INFO - ALLOWED: o915751.ingest.sentry.io (clean: 0/94 engines)
+2025-06-24 05:23:41,497 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,497 - INFO - VirusTotal check for c.6sc.co: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,503 - INFO - Cached result for c.6sc.co: malicious=False (0/94)
+2025-06-24 05:23:41,503 - INFO - ALLOWED: c.6sc.co (clean: 0/94 engines)
+2025-06-24 05:23:41,533 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,534 - INFO - VirusTotal check for o915751.ingest.sentry.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,541 - INFO - Cached result for o915751.ingest.sentry.io: malicious=False (0/94)
+2025-06-24 05:23:41,541 - INFO - ALLOWED: o915751.ingest.sentry.io (clean: 0/94 engines)
+2025-06-24 05:23:41,588 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,589 - INFO - VirusTotal check for image.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,595 - INFO - Cached result for image.mux.com: malicious=False (0/94)
+2025-06-24 05:23:41,596 - INFO - ALLOWED: image.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:41,612 - WARNING - Connection pool is full, discarding connection: www.virustotal.com. Connection pool size: 10
+2025-06-24 05:23:41,613 - INFO - VirusTotal check for stream.mux.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:41,619 - INFO - Cached result for stream.mux.com: malicious=False (0/94)
+2025-06-24 05:23:41,620 - INFO - ALLOWED: stream.mux.com (clean: 0/94 engines)
+2025-06-24 05:23:53,391 - INFO - VirusTotal check for jogerbo5nk3a89o4gs23pv6n7.litix.io: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:53,396 - INFO - Cached result for jogerbo5nk3a89o4gs23pv6n7.litix.io: malicious=False (0/94)
+2025-06-24 05:23:53,397 - INFO - ALLOWED: jogerbo5nk3a89o4gs23pv6n7.litix.io (clean: 0/94 engines)
+2025-06-24 05:23:54,182 - INFO - VirusTotal check for content-firebaseappcheck.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:54,264 - INFO - Cached result for content-firebaseappcheck.googleapis.com: malicious=False (0/94)
+2025-06-24 05:23:54,264 - INFO - ALLOWED: content-firebaseappcheck.googleapis.com (clean: 0/94 engines)
+2025-06-24 05:23:55,197 - INFO - VirusTotal check for content.help.bolster.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:55,223 - INFO - Cached result for content.help.bolster.ai: malicious=False (0/94)
+2025-06-24 05:23:55,224 - INFO - ALLOWED: content.help.bolster.ai (clean: 0/94 engines)
+2025-06-24 05:23:55,467 - INFO - VirusTotal check for unpkg.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:55,474 - INFO - Cached result for unpkg.com: malicious=False (0/94)
+2025-06-24 05:23:55,474 - INFO - ALLOWED: unpkg.com (clean: 0/94 engines)
+2025-06-24 05:23:56,022 - INFO - VirusTotal check for cdnjs.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:56,035 - INFO - Cached result for cdnjs.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:56,035 - INFO - ALLOWED: cdnjs.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:56,979 - INFO - VirusTotal check for unpkg.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:57,001 - INFO - Cached result for unpkg.com: malicious=False (0/94)
+2025-06-24 05:23:57,001 - INFO - ALLOWED: unpkg.com (clean: 0/94 engines)
+2025-06-24 05:23:57,796 - INFO - VirusTotal check for cdnjs.cloudflare.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:57,802 - INFO - Cached result for cdnjs.cloudflare.com: malicious=False (0/94)
+2025-06-24 05:23:57,802 - INFO - ALLOWED: cdnjs.cloudflare.com (clean: 0/94 engines)
+2025-06-24 05:23:57,810 - INFO - VirusTotal check for content.help.bolster.ai: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:23:57,816 - INFO - Cached result for content.help.bolster.ai: malicious=False (0/94)
+2025-06-24 05:23:57,816 - INFO - ALLOWED: content.help.bolster.ai (clean: 0/94 engines)
+2025-06-24 05:24:10,556 - INFO - VirusTotal check for js.stripe.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:24:10,563 - INFO - Cached result for js.stripe.com: malicious=False (0/94)
+2025-06-24 05:24:10,564 - INFO - ALLOWED: js.stripe.com (clean: 0/94 engines)
+2025-06-24 05:24:12,470 - INFO - VirusTotal check for js.stripe.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:24:12,484 - INFO - Cached result for js.stripe.com: malicious=False (0/94)
+2025-06-24 05:24:12,484 - INFO - ALLOWED: js.stripe.com (clean: 0/94 engines)
+2025-06-24 05:24:27,997 - INFO - VirusTotal check for clients2.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:24:28,000 - INFO - VirusTotal check for clients2.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:24:28,006 - INFO - Cached result for clients2.google.com: malicious=False (0/94)
+2025-06-24 05:24:28,006 - INFO - ALLOWED: clients2.google.com (clean: 0/94 engines)
+2025-06-24 05:24:28,010 - INFO - Cached result for clients2.google.com: malicious=False (0/94)
+2025-06-24 05:24:28,010 - INFO - ALLOWED: clients2.google.com (clean: 0/94 engines)
+2025-06-24 05:25:20,755 - INFO - VirusTotal check for rr5---sn-qxaeeney.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:25:20,762 - INFO - Cached result for rr5---sn-qxaeeney.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:25:20,762 - INFO - ALLOWED: rr5---sn-qxaeeney.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:25:59,418 - INFO - VirusTotal check for t.me: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:25:59,423 - INFO - Cached result for t.me: malicious=False (0/94)
+2025-06-24 05:25:59,424 - INFO - ALLOWED: t.me (clean: 0/94 engines)
+2025-06-24 05:26:14,916 - INFO - VirusTotal check for beacons.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:14,919 - INFO - VirusTotal check for telegram.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:14,920 - INFO - Cached result for beacons.gvt2.com: malicious=False (0/94)
+2025-06-24 05:26:14,920 - INFO - ALLOWED: beacons.gvt2.com (clean: 0/94 engines)
+2025-06-24 05:26:14,927 - INFO - Cached result for telegram.org: malicious=False (0/94)
+2025-06-24 05:26:14,927 - INFO - ALLOWED: telegram.org (clean: 0/94 engines)
+2025-06-24 05:26:14,967 - INFO - VirusTotal check for beacons.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:14,973 - INFO - Cached result for beacons.gvt2.com: malicious=False (0/94)
+2025-06-24 05:26:14,973 - INFO - ALLOWED: beacons.gvt2.com (clean: 0/94 engines)
+2025-06-24 05:26:14,990 - INFO - VirusTotal check for e2c11.gcp.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:14,996 - INFO - Cached result for e2c11.gcp.gvt2.com: malicious=False (0/94)
+2025-06-24 05:26:14,996 - INFO - ALLOWED: e2c11.gcp.gvt2.com (clean: 0/94 engines)
+2025-06-24 05:26:15,150 - INFO - VirusTotal check for e2c11.gcp.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:15,155 - INFO - Cached result for e2c11.gcp.gvt2.com: malicious=False (0/94)
+2025-06-24 05:26:15,155 - INFO - ALLOWED: e2c11.gcp.gvt2.com (clean: 0/94 engines)
+2025-06-24 05:26:15,687 - INFO - VirusTotal check for telegram.org: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:15,697 - INFO - Cached result for telegram.org: malicious=False (0/94)
+2025-06-24 05:26:15,698 - INFO - ALLOWED: telegram.org (clean: 0/94 engines)
+2025-06-24 05:26:41,742 - INFO - VirusTotal check for ade.googlesyndication.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:41,749 - INFO - Cached result for ade.googlesyndication.com: malicious=False (0/94)
+2025-06-24 05:26:41,750 - INFO - ALLOWED: ade.googlesyndication.com (clean: 0/94 engines)
+2025-06-24 05:26:42,080 - INFO - VirusTotal check for rr3---sn-qxaelnel.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:42,087 - INFO - Cached result for rr3---sn-qxaelnel.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:26:42,087 - INFO - ALLOWED: rr3---sn-qxaelnel.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:26:42,606 - INFO - VirusTotal check for pagead2.googlesyndication.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:42,616 - INFO - Cached result for pagead2.googlesyndication.com: malicious=False (0/94)
+2025-06-24 05:26:42,616 - INFO - ALLOWED: pagead2.googlesyndication.com (clean: 0/94 engines)
+2025-06-24 05:26:57,475 - INFO - VirusTotal check for pagead2.googlesyndication.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:26:57,485 - INFO - Cached result for pagead2.googlesyndication.com: malicious=False (0/94)
+2025-06-24 05:26:57,485 - INFO - ALLOWED: pagead2.googlesyndication.com (clean: 0/94 engines)
+2025-06-24 05:28:39,898 - INFO - VirusTotal check for rr1---sn-qxaelned.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:28:39,905 - INFO - Cached result for rr1---sn-qxaelned.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:28:39,906 - INFO - ALLOWED: rr1---sn-qxaelned.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:29:02,152 - INFO - VirusTotal check for rr3---sn-qxaelnes.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:29:02,158 - INFO - Cached result for rr3---sn-qxaelnes.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:29:02,159 - INFO - ALLOWED: rr3---sn-qxaelnes.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:31:25,566 - INFO - VirusTotal check for rr1---sn-qxaelnez.googlevideo.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 05:31:25,598 - INFO - Cached result for rr1---sn-qxaelnez.googlevideo.com: malicious=False (0/94)
+2025-06-24 05:31:25,599 - INFO - ALLOWED: rr1---sn-qxaelnez.googlevideo.com (clean: 0/94 engines)
+2025-06-24 05:31:33,205 - ERROR - Exception checking rr1---sn-qxaelnez.googlevideo.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 05:31:33,245 - INFO - Cached result for rr1---sn-qxaelnez.googlevideo.com: malicious=False (0/0)
+2025-06-24 05:31:33,245 - INFO - ALLOWED: rr1---sn-qxaelnez.googlevideo.com (clean: 0/0 engines)
+2025-06-24 16:18:49,676 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 16:18:49,684 - INFO - Warning server started on port 8080
+2025-06-24 16:18:49,684 - INFO - Cache cleanup thread started
+2025-06-24 16:21:46,050 - INFO - VirusTotal check for conn-service-in-05.allawnos.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:21:46,050 - INFO - VirusTotal check for mtalk.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:21:46,051 - INFO - VirusTotal check for www.google.in: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:21:46,051 - INFO - VirusTotal check for conn-service-in-04.allawnos.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:21:46,066 - INFO - Cached result for conn-service-in-05.allawnos.com: malicious=False (0/94)
+2025-06-24 16:21:46,067 - INFO - ALLOWED: conn-service-in-05.allawnos.com (clean: 0/94 engines)
+2025-06-24 16:21:46,083 - INFO - Cached result for conn-service-in-04.allawnos.com: malicious=False (0/94)
+2025-06-24 16:21:46,084 - INFO - ALLOWED: conn-service-in-04.allawnos.com (clean: 0/94 engines)
+2025-06-24 16:21:46,098 - INFO - Cached result for mtalk.google.com: malicious=False (0/94)
+2025-06-24 16:21:46,098 - INFO - ALLOWED: mtalk.google.com (clean: 0/94 engines)
+2025-06-24 16:21:46,115 - INFO - Cached result for www.google.in: malicious=False (0/94)
+2025-06-24 16:21:46,115 - INFO - ALLOWED: www.google.in (clean: 0/94 engines)
+2025-06-24 16:21:46,453 - INFO - VirusTotal check for gateway.instagram.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:21:46,463 - INFO - Cached result for gateway.instagram.com: malicious=False (0/94)
+2025-06-24 16:21:46,463 - INFO - ALLOWED: gateway.instagram.com (clean: 0/94 engines)
+2025-06-24 16:22:01,862 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:01,871 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:01,871 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:22:01,872 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:01,876 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:01,876 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:22:01,879 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:01,882 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:01,882 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:22:01,939 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:01,944 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:01,945 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:22:02,327 - INFO - VirusTotal check for vowifi.jio.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:22:02,328 - INFO - VirusTotal check for vowifi.jio.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:22:02,328 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:02,336 - INFO - Cached result for vowifi.jio.com: malicious=False (0/94)
+2025-06-24 16:22:02,346 - INFO - ALLOWED: vowifi.jio.com (clean: 0/94 engines)
+2025-06-24 16:22:02,353 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:02,353 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:22:02,369 - INFO - Cached result for vowifi.jio.com: malicious=False (0/94)
+2025-06-24 16:22:02,370 - INFO - ALLOWED: vowifi.jio.com (clean: 0/94 engines)
+2025-06-24 16:22:02,735 - INFO - VirusTotal check for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: 0 malicious, 1 suspicious, 94 total
+2025-06-24 16:22:02,745 - INFO - Cached result for epdg.epc.mnc872.mcc405.pub.3gppnetwork.org: malicious=False (1/94)
+2025-06-24 16:22:02,746 - INFO - ALLOWED: epdg.epc.mnc872.mcc405.pub.3gppnetwork.org (clean: 1/94 engines)
+2025-06-24 16:23:04,275 - INFO - Domain vashu0100.github.io not found in VirusTotal - assuming clean
+2025-06-24 16:23:04,282 - INFO - Cached result for vashu0100.github.io: malicious=False (0/0)
+2025-06-24 16:23:04,282 - INFO - ALLOWED: vashu0100.github.io (clean: 0/0 engines)
+2025-06-24 16:26:40,141 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 16:36:00,355 - ERROR - Exception checking 8ujoo-4.pages.dev: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:00,362 - INFO - Cached result for 8ujoo-4.pages.dev: malicious=False (0/0)
+2025-06-24 16:36:00,363 - INFO - ALLOWED: 8ujoo-4.pages.dev (clean: 0/0 engines)
+2025-06-24 16:36:01,364 - ERROR - Exception checking 8ujoo-4.pages.dev: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:01,372 - INFO - Cached result for 8ujoo-4.pages.dev: malicious=False (0/0)
+2025-06-24 16:36:01,372 - INFO - ALLOWED: 8ujoo-4.pages.dev (clean: 0/0 engines)
+2025-06-24 16:36:02,851 - ERROR - Exception checking images-na.ssl-images-amazon.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:02,863 - INFO - Cached result for images-na.ssl-images-amazon.com: malicious=False (0/0)
+2025-06-24 16:36:02,863 - INFO - ALLOWED: images-na.ssl-images-amazon.com (clean: 0/0 engines)
+2025-06-24 16:36:03,879 - ERROR - Exception checking images-na.ssl-images-amazon.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:03,891 - INFO - Cached result for images-na.ssl-images-amazon.com: malicious=False (0/0)
+2025-06-24 16:36:03,892 - INFO - ALLOWED: images-na.ssl-images-amazon.com (clean: 0/0 engines)
+2025-06-24 16:36:05,029 - ERROR - Exception checking fls-na.amazon.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:05,035 - INFO - Cached result for fls-na.amazon.com: malicious=False (0/0)
+2025-06-24 16:36:05,035 - INFO - ALLOWED: fls-na.amazon.com (clean: 0/0 engines)
+2025-06-24 16:36:06,035 - ERROR - Exception checking fls-na.amazon.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 16:36:06,043 - INFO - Cached result for fls-na.amazon.com: malicious=False (0/0)
+2025-06-24 16:36:06,043 - INFO - ALLOWED: fls-na.amazon.com (clean: 0/0 engines)
+2025-06-24 16:36:56,590 - INFO - VirusTotal check for g.whatsapp.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:36:56,598 - INFO - Cached result for g.whatsapp.net: malicious=False (0/94)
+2025-06-24 16:36:56,599 - INFO - ALLOWED: g.whatsapp.net (clean: 0/94 engines)
+2025-06-24 16:42:15,946 - INFO - Warning server stopped
+2025-06-24 16:42:22,434 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 16:42:22,442 - INFO - Warning server started on port 8080
+2025-06-24 16:42:22,442 - INFO - Cache cleanup thread started
+2025-06-24 16:42:39,118 - INFO - VirusTotal check for lh6.googleusercontent.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 16:42:39,124 - INFO - Cached result for lh6.googleusercontent.com: malicious=False (0/94)
+2025-06-24 16:42:39,124 - INFO - ALLOWED: lh6.googleusercontent.com (clean: 0/94 engines)
+2025-06-24 16:49:47,492 - INFO - Warning server stopped
+2025-06-24 16:50:29,863 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 16:50:29,872 - INFO - Warning server started on port 8080
+2025-06-24 16:50:29,872 - INFO - Cache cleanup thread started
+2025-06-24 16:52:13,792 - INFO - Blocked domain: phishing.testcategory.com - redirecting to warning page
+2025-06-24 16:52:43,692 - INFO - VirusTotal check for 8ujoo-4.pages.dev: 17 malicious, 0 suspicious, 94 total
+2025-06-24 16:52:43,699 - INFO - Cached result for 8ujoo-4.pages.dev: malicious=True (17/94)
+2025-06-24 16:52:43,699 - WARNING - BLOCKED: 8ujoo-4.pages.dev (flagged by 17/94 engines or error: )
+2025-06-24 16:52:43,700 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 16:54:41,128 - INFO - Warning server stopped
+2025-06-24 17:00:33,132 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 17:00:33,140 - INFO - Warning server started on port 8080
+2025-06-24 17:00:33,140 - INFO - Cache cleanup thread started
+2025-06-24 17:00:35,962 - INFO - VirusTotal check for asc-us-traffic-01.asus.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:00:35,968 - INFO - Cached result for asc-us-traffic-01.asus.com: malicious=False (0/94)
+2025-06-24 17:00:35,969 - INFO - ALLOWED: asc-us-traffic-01.asus.com (clean: 0/94 engines)
+2025-06-24 17:00:45,257 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:01:08,374 - INFO - VirusTotal check for connect.facebook.net: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:08,383 - INFO - Cached result for connect.facebook.net: malicious=False (0/94)
+2025-06-24 17:01:08,383 - INFO - ALLOWED: connect.facebook.net (clean: 0/94 engines)
+2025-06-24 17:01:08,414 - INFO - VirusTotal check for 1977.ink: 21 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:08,421 - INFO - Cached result for 1977.ink: malicious=True (21/94)
+2025-06-24 17:01:08,421 - WARNING - BLOCKED: 1977.ink (flagged by 21/94 engines or error: )
+2025-06-24 17:01:08,422 - INFO - Blocked domain: 1977.ink - redirecting to warning page
+2025-06-24 17:01:08,453 - INFO - VirusTotal check for 1977.ink: 21 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:08,459 - INFO - Cached result for 1977.ink: malicious=True (21/94)
+2025-06-24 17:01:08,459 - WARNING - BLOCKED: 1977.ink (flagged by 21/94 engines or error: )
+2025-06-24 17:01:08,460 - INFO - Blocked domain: 1977.ink - redirecting to warning page
+2025-06-24 17:01:29,930 - INFO - VirusTotal check for 2t97n1.imtokends.com: 20 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:29,935 - INFO - Cached result for 2t97n1.imtokends.com: malicious=True (20/94)
+2025-06-24 17:01:29,935 - WARNING - BLOCKED: 2t97n1.imtokends.com (flagged by 20/94 engines or error: )
+2025-06-24 17:01:29,935 - INFO - Blocked domain: 2t97n1.imtokends.com - redirecting to warning page
+2025-06-24 17:01:50,611 - INFO - VirusTotal check for aditya-rakesh.github.io: 14 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:50,611 - INFO - VirusTotal check for www.freepnglogos.com: 0 malicious, 1 suspicious, 94 total
+2025-06-24 17:01:50,619 - INFO - Cached result for aditya-rakesh.github.io: malicious=True (14/94)
+2025-06-24 17:01:50,619 - WARNING - BLOCKED: aditya-rakesh.github.io (flagged by 14/94 engines or error: )
+2025-06-24 17:01:50,620 - INFO - Blocked domain: aditya-rakesh.github.io - redirecting to warning page
+2025-06-24 17:01:50,628 - INFO - Cached result for www.freepnglogos.com: malicious=False (1/94)
+2025-06-24 17:01:50,628 - INFO - ALLOWED: www.freepnglogos.com (clean: 1/94 engines)
+2025-06-24 17:01:50,718 - INFO - VirusTotal check for pro.fontawesome.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:01:50,723 - INFO - Cached result for pro.fontawesome.com: malicious=False (0/94)
+2025-06-24 17:01:50,724 - INFO - ALLOWED: pro.fontawesome.com (clean: 0/94 engines)
+2025-06-24 17:01:56,964 - INFO - Blocked domain: aditya-rakesh.github.io - redirecting to warning page
+2025-06-24 17:02:44,558 - INFO - VirusTotal check for ahik.cotrustsystem.com: 13 malicious, 0 suspicious, 94 total
+2025-06-24 17:02:44,566 - INFO - Cached result for ahik.cotrustsystem.com: malicious=True (13/94)
+2025-06-24 17:02:44,567 - WARNING - BLOCKED: ahik.cotrustsystem.com (flagged by 13/94 engines or error: )
+2025-06-24 17:02:44,567 - INFO - Blocked domain: ahik.cotrustsystem.com - redirecting to warning page
+2025-06-24 17:03:07,003 - INFO - VirusTotal check for amazon-clone-kyxd8lchk-subhampreet.vercel.app: 20 malicious, 0 suspicious, 94 total
+2025-06-24 17:03:07,013 - INFO - Cached result for amazon-clone-kyxd8lchk-subhampreet.vercel.app: malicious=True (20/94)
+2025-06-24 17:03:07,013 - WARNING - BLOCKED: amazon-clone-kyxd8lchk-subhampreet.vercel.app (flagged by 20/94 engines or error: )
+2025-06-24 17:03:07,014 - INFO - Blocked domain: amazon-clone-kyxd8lchk-subhampreet.vercel.app - redirecting to warning page
+2025-06-24 17:03:07,416 - INFO - Blocked domain: amazon-clone-kyxd8lchk-subhampreet.vercel.app - redirecting to warning page
+2025-06-24 17:10:59,964 - INFO - Warning server stopped
+2025-06-24 17:11:28,796 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 17:11:28,803 - INFO - Warning server started on port 8080
+2025-06-24 17:11:28,804 - INFO - Cache cleanup thread started
+2025-06-24 17:12:43,929 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:15:07,289 - INFO - VirusTotal check for proactivebackend-pa.googleapis.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:15:07,294 - INFO - Cached result for proactivebackend-pa.googleapis.com: malicious=False (0/94)
+2025-06-24 17:15:07,294 - INFO - ALLOWED: proactivebackend-pa.googleapis.com (clean: 0/94 engines)
+2025-06-24 17:15:22,762 - INFO - VirusTotal check for google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:15:22,768 - INFO - Cached result for google.com: malicious=False (0/94)
+2025-06-24 17:15:22,769 - INFO - ALLOWED: google.com (clean: 0/94 engines)
+2025-06-24 17:15:23,212 - INFO - VirusTotal check for google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:15:23,237 - INFO - Cached result for google.com: malicious=False (0/94)
+2025-06-24 17:15:23,237 - INFO - ALLOWED: google.com (clean: 0/94 engines)
+2025-06-24 17:16:13,848 - INFO - VirusTotal check for www.virustotal.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:16:13,855 - INFO - Cached result for www.virustotal.com: malicious=False (0/94)
+2025-06-24 17:16:13,855 - INFO - ALLOWED: www.virustotal.com (clean: 0/94 engines)
+2025-06-24 17:16:29,312 - INFO - VirusTotal check for recaptcha.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 17:16:29,313 - INFO - VirusTotal check for recaptcha.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 17:16:29,320 - INFO - Cached result for recaptcha.net: malicious=False (1/94)
+2025-06-24 17:16:29,320 - INFO - ALLOWED: recaptcha.net (clean: 1/94 engines)
+2025-06-24 17:16:29,327 - INFO - Cached result for recaptcha.net: malicious=False (1/94)
+2025-06-24 17:16:29,327 - INFO - ALLOWED: recaptcha.net (clean: 1/94 engines)
+2025-06-24 17:16:29,363 - INFO - VirusTotal check for recaptcha.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 17:16:29,368 - INFO - Cached result for recaptcha.net: malicious=False (1/94)
+2025-06-24 17:16:29,368 - INFO - ALLOWED: recaptcha.net (clean: 1/94 engines)
+2025-06-24 17:16:29,434 - INFO - VirusTotal check for recaptcha.net: 1 malicious, 0 suspicious, 94 total
+2025-06-24 17:16:29,442 - INFO - Cached result for recaptcha.net: malicious=False (1/94)
+2025-06-24 17:16:29,442 - INFO - ALLOWED: recaptcha.net (clean: 1/94 engines)
+2025-06-24 17:17:54,202 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:21:19,214 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:21:19,215 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:24:23,336 - INFO - Blocked domain: 8ujoo-4.pages.dev - redirecting to warning page
+2025-06-24 17:34:51,463 - INFO - VirusTotal check for blocked-domain.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:34:51,471 - INFO - Cached result for blocked-domain.com: malicious=False (0/94)
+2025-06-24 17:34:51,471 - INFO - ALLOWED: blocked-domain.com (clean: 0/94 engines)
+2025-06-24 17:34:57,763 - ERROR - Exception checking blocked-domain.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 17:34:57,772 - INFO - Cached result for blocked-domain.com: malicious=True (0/0)
+2025-06-24 17:34:57,772 - WARNING - BLOCKED: blocked-domain.com (flagged by 0/0 engines or error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10))
+2025-06-24 17:34:57,773 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:34:57,778 - ERROR - Exception checking blocked-domain.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 17:34:57,782 - INFO - Cached result for blocked-domain.com: malicious=True (0/0)
+2025-06-24 17:34:57,782 - WARNING - BLOCKED: blocked-domain.com (flagged by 0/0 engines or error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10))
+2025-06-24 17:34:57,782 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:34:58,005 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:34:58,586 - ERROR - Exception checking blocked-domain.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 17:34:58,593 - INFO - Cached result for blocked-domain.com: malicious=True (0/0)
+2025-06-24 17:34:58,593 - WARNING - BLOCKED: blocked-domain.com (flagged by 0/0 engines or error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10))
+2025-06-24 17:34:58,593 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:34:58,800 - ERROR - Exception checking blocked-domain.com: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 17:34:58,809 - INFO - Cached result for blocked-domain.com: malicious=True (0/0)
+2025-06-24 17:34:58,809 - WARNING - BLOCKED: blocked-domain.com (flagged by 0/0 engines or error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10))
+2025-06-24 17:34:58,809 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:37:55,361 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:38:29,860 - INFO - VirusTotal check for e2c38.gcp.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:38:29,867 - INFO - Cached result for e2c38.gcp.gvt2.com: malicious=False (0/94)
+2025-06-24 17:38:29,869 - INFO - ALLOWED: e2c38.gcp.gvt2.com (clean: 0/94 engines)
+2025-06-24 17:39:56,571 - INFO - VirusTotal check for edge-mqtt.facebook.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:39:56,577 - INFO - Cached result for edge-mqtt.facebook.com: malicious=False (0/94)
+2025-06-24 17:39:56,577 - INFO - ALLOWED: edge-mqtt.facebook.com (clean: 0/94 engines)
+2025-06-24 17:39:56,723 - INFO - VirusTotal check for z-m-gateway.facebook.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:39:56,730 - INFO - Cached result for z-m-gateway.facebook.com: malicious=False (0/94)
+2025-06-24 17:39:56,730 - INFO - ALLOWED: z-m-gateway.facebook.com (clean: 0/94 engines)
+2025-06-24 17:39:57,872 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:39:57,873 - INFO - Blocked domain: blocked-domain.com - redirecting to warning page
+2025-06-24 17:40:12,167 - INFO - VirusTotal check for android.apis.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:40:12,175 - INFO - Cached result for android.apis.google.com: malicious=False (0/94)
+2025-06-24 17:40:12,176 - INFO - ALLOWED: android.apis.google.com (clean: 0/94 engines)
+2025-06-24 17:40:12,231 - INFO - VirusTotal check for android.apis.google.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:40:12,236 - INFO - Cached result for android.apis.google.com: malicious=False (0/94)
+2025-06-24 17:40:12,236 - INFO - ALLOWED: android.apis.google.com (clean: 0/94 engines)
+2025-06-24 17:40:49,747 - INFO - VirusTotal check for beacons4.gvt2.com: 0 malicious, 0 suspicious, 94 total
+2025-06-24 17:40:49,756 - INFO - Cached result for beacons4.gvt2.com: malicious=False (0/94)
+2025-06-24 17:40:49,756 - INFO - ALLOWED: beacons4.gvt2.com (clean: 0/94 engines)
+2025-06-24 17:54:32,604 - ERROR - Exception checking phisdns.ddns.net: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10)
+2025-06-24 17:54:32,620 - INFO - Cached result for phisdns.ddns.net: malicious=True (0/0)
+2025-06-24 17:54:32,620 - WARNING - BLOCKED: phisdns.ddns.net (flagged by 0/0 engines or error: HTTPSConnectionPool(host='www.virustotal.com', port=443): Read timed out. (read timeout=10))
+2025-06-24 17:54:32,621 - INFO - Blocked domain: phisdns.ddns.net - redirecting to warning page
+2025-06-24 17:54:33,252 - INFO - Domain phisdns.ddns.net not found in VirusTotal - assuming clean
+2025-06-24 17:54:33,263 - INFO - Cached result for phisdns.ddns.net: malicious=False (0/0)
+2025-06-24 17:54:33,264 - INFO - ALLOWED: phisdns.ddns.net (clean: 0/0 engines)
+2025-06-24 08:41:05,246 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 08:41:05,247 - INFO - Warning server started on port 8080
+2025-06-24 08:41:05,248 - INFO - Cache cleanup thread started
+2025-06-24 08:41:28,162 - INFO - Database initialized: phishblock_cache.db
+2025-06-24 08:41:28,162 - INFO - Warning server started on port 8080
+2025-06-24 08:41:28,163 - INFO - Cache cleanup thread started
+2025-06-24 08:41:28,163 - INFO - 🛡️ PhishBlock-DNS Server Starting...
+2025-06-24 08:41:28,163 - INFO - 📡 Listening on port 53
+2025-06-24 08:41:28,163 - INFO - 🔍 Using VirusTotal API for phishing detection
+2025-06-24 08:41:28,163 - INFO - 🚫 Blocking threshold: 2 engines
+2025-06-24 08:41:28,163 - INFO - ⬆️  Upstream DNS: 8.8.8.8, 1.1.1.1
+2025-06-24 08:41:28,163 - INFO - 💾 Cache TTL: 24 hours
+2025-06-24 08:41:28,163 - INFO - ⚠️  Warning server on port 8080
+2025-06-24 08:41:56,587 - INFO - 🛑 Shutting down PhishBlock-DNS...
+2025-06-24 08:41:56,950 - INFO - Warning server stopped

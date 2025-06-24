@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚨 PHISHING SITE BLOCKED 🚨</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #ff0000, #cc0000);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        
+        .warning-container {
+            background: rgba(0, 0, 0, 0.8);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 600px;
+            text-align: center;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+            border: 3px solid #ff4444;
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        .warning-icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+            animation: shake 0.5s infinite;
+        }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+        
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        
+        .domain-name {
+            background: #ff4444;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 1.2em;
+            margin: 20px 0;
+            display: inline-block;
+            border: 2px solid white;
+        }
+        
+        .warning-text {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        
+        .button {
+            background: #ffffff;
+            color: #cc0000;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin: 10px;
+            transition: all 0.3s ease;
+        }
+        
+        .button:hover {
+            background: #f0f0f0;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+        
+        .stats {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        
+        .emergency-contact {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            font-size: 0.9em;
+        }
+        
+        .demo-notice {
+            background: rgba(255, 255, 0, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            margin: 20px 0;
+            font-size: 0.9em;
+            border: 2px solid #ffff00;
+        }
+    </style>
+</head>
+<body>
+    <div class="warning-container">
+        <div class="warning-icon">🚨</div>
+        <h1>PHISHING SITE BLOCKED</h1>
+        
+        <div class="domain-name">malicious-phishing-site.com</div>
+        
+        <div class="warning-text">
+            <strong>This website has been identified as a potential phishing site!</strong><br><br>
+            PhishBlock-DNS has blocked access to this domain because it has been flagged by multiple security engines as malicious or suspicious.
+        </div>
+        
+        <div class="demo-notice">
+            <strong>🎭 DEMO MODE:</strong><br>
+            This is a demonstration of the phishing warning page.<br>
+            In real operation, this would appear when visiting an actual malicious site.
+        </div>
+        
+        <div class="stats">
+            <strong>Protection Details:</strong><br>
+            • Domain flagged by VirusTotal security engines<br>
+            • Blocked by PhishBlock-DNS protection system<br>
+            • Timestamp: 2024-01-15 14:30:25<br>
+            • Security engines: 5/85 flagged as malicious
+        </div>
+        
+        <div class="emergency-contact">
+            <strong>If you believe this is a false positive:</strong><br>
+            • Contact your IT administrator<br>
+            • Report to: security@yourcompany.com<br>
+            • Check the domain on VirusTotal.com
+        </div>
+        
+        <div>
+            <a href="javascript:history.back()" class="button">← Go Back</a>
+            <a href="https://www.google.com" class="button">Go to Google</a>
+            <a href="https://www.virustotal.com" class="button">Check on VirusTotal</a>
+        </div>
+        
+        <div class="footer">
+            Protected by PhishBlock-DNS | Real-time phishing detection powered by VirusTotal
+        </div>
+    </div>
+    
+    <script>
+        // Add some interactive effects
+        document.addEventListener('DOMContentLoaded', function() {
+            // Add click sound effect to buttons
+            const buttons = document.querySelectorAll('.button');
+            buttons.forEach(button => {
+                button.addEventListener('click', function() {
+                    // Create a simple click effect
+                    this.style.transform = 'scale(0.95)';
+                    setTimeout(() => {
+                        this.style.transform = '';
+                    }, 150);
+                });
+            });
+            
+            // Add a subtle background animation
+            let hue = 0;
+            setInterval(() => {
+                hue = (hue + 1) % 360;
+                document.body.style.background = `linear-gradient(135deg, hsl(${hue}, 100%, 50%), hsl(${hue + 20}, 100%, 40%))`;
+            }, 100);
+        });
+    </script>
+</body>
+</html> 
