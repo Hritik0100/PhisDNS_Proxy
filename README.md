@@ -1,3 +1,7 @@
+[![GitHub Stars](https://img.shields.io/github/stars/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/issues)
+[![GitHub License](https://img.shields.io/github/license/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/blob/master/LICENSE)
 # 🛡️ PhishBlock-DNS
 
 **Private DNS with Real-time Phishing Detection and Visual Warning System**
@@ -201,72 +205,4 @@ This tool is for educational and personal use. Always verify security decisions 
 
 ---
 
-**Stay safe online! 🛡️**
-
-# Phishing Link Detector Extension
-
-[![GitHub Stars](https://img.shields.io/github/stars/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Hritik0100/PhisDNS_Proxy?style=social)](https://github.com/Hritik0100/PhisDNS_Proxy/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/issues)
-[![GitHub License](https://img.shields.io/github/license/Hritik0100/PhisDNS_Proxy)](https://github.com/Hritik0100/PhisDNS_Proxy/blob/master/LICENSE)
-
----
-
-## 🚨 Advanced Browser Extension for Real-Time Phishing Link Detection & Protection
-
-**Phishing Link Detector Extension** is a powerful security tool designed to protect you from malicious and phishing links in real-time. With seamless [VirusTotal](https://www.virustotal.com/) integration, it ensures every link you visit is checked for threats, keeping your browsing safe and secure.
-
----
-
-### ✨ Features
-- **Real-Time Phishing Detection**: Instantly scans and blocks suspicious links.
-- **VirusTotal API Integration**: Leverages VirusTotal's database for up-to-date threat intelligence.
-- **User-Friendly Alerts**: Notifies you with clear warnings when a phishing attempt is detected.
-- **Lightweight & Fast**: Minimal impact on browser performance.
-- **Open Source**: Transparent and community-driven development.
-
----
-
-### 🛡️ How It Works
-1. Monitors every link you click or visit.
-2. Sends the link to VirusTotal for analysis.
-3. If the link is flagged as malicious, you get an instant warning and the site is blocked.
-
----
-
-### 🚀 Getting Started
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/Hritik0100/PhisDNS_Proxy.git
-   ```
-2. **Install dependencies:**
-   ```bash
-   cd phishblock-dns
-   # Follow setup instructions in the repo
-   ```
-3. **Load the extension in your browser:**
-   - Go to your browser's extensions page
-   - Enable Developer Mode
-   - Load the `phishblock-dns` directory
-
----
-
-### 📦 Tech Stack
-- Python
-- VirusTotal API
-- dnslib
-- Browser Extension APIs
-
----
-
-### 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-### 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-> **Stay safe online! Protect your browsing with Phishing Link Detector Extension.** 
+**Stay safe online! 🛡️** 
